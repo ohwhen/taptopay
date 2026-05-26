@@ -1,0 +1,2670 @@
+{
+  "snapshot_date": "2026-05-26",
+  "source_url": "https://developer.apple.com/tap-to-pay/regions/",
+  "countries": [
+    {
+      "code": "AU",
+      "name": "Australia",
+      "psps": [
+        {
+          "name": "Adyen",
+          "url": "https://www.adyen.com/pos-payments/tap-to-pay-on-iphone/",
+          "sdk_url": "https://docs.adyen.com/point-of-sale/ipp-mobile/tap-to-pay",
+          "status": "live"
+        },
+        {
+          "name": "ANZ Worldline",
+          "url": "https://anzworldline.com.au/en/home/payment-solutions/eftpos-terminals/tap-to-pay.html",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Square",
+          "url": "https://squareup.com/au/en/payments/tap-to-pay",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/au/terminal/tap-to-pay-on-iphone",
+          "sdk_url": "https://stripe.com/docs/terminal/payments/setup-reader/tap-to-pay?platform=ios",
+          "status": "live"
+        },
+        {
+          "name": "SumUp",
+          "url": "https://www.sumup.com/en-au/tap-to-pay-on-iphone/",
+          "sdk_url": "https://github.com/sumup/sumup-ios-sdk",
+          "status": "live"
+        },
+        {
+          "name": "Tyro",
+          "url": "https://www.tyro.com/lp/tyro-byo/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Westpac",
+          "url": "https://www.westpac.com.au/business-banking/merchants-and-payments/eftpos-air-mobile-payments-app/tap-to-pay-on-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Windcave",
+          "url": "https://www.windcave.com",
+          "sdk_url": "https://www.windcave.com/developer-attended-tap-to-pay-on-iPhone",
+          "status": "live"
+        },
+        {
+          "name": "Zeller",
+          "url": "https://www.myzeller.com/zeller-app/tap-to-pay/iphone",
+          "sdk_url": null,
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "AT",
+      "name": "Austria",
+      "psps": [
+        {
+          "name": "Adyen",
+          "url": "https://www.adyen.com/devices/tap-to-pay-on-iphone",
+          "sdk_url": "https://docs.adyen.com/point-of-sale/ipp-mobile/tap-to-pay/",
+          "status": "live"
+        },
+        {
+          "name": "Global Payments",
+          "url": "https://www.globalpayments.at/de-at/tap-to-pay",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Hobex",
+          "url": "https://www.hobex.at/posit/tap-to-pay/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Mollie",
+          "url": "https://www.mollie.com/at/products/pos-payments/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "myPOS",
+          "url": "https://www.mypos.com/de-at/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Nexi",
+          "url": "https://www.nexi.at/de/terminals/softpos/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Rapyd",
+          "url": "https://www.rapyd.net/de/tap-to-pay-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Revolut",
+          "url": "https://www.revolut.com/de-AT/tap-to-pay-on-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/at/terminal/tap-to-pay",
+          "sdk_url": "https://stripe.com/docs/terminal/payments/setup-reader/tap-to-pay?platform=ios",
+          "status": "live"
+        },
+        {
+          "name": "SumUp",
+          "url": "https://www.sumup.com/de-at/tap-to-pay-on-iphone",
+          "sdk_url": "https://github.com/sumup/sumup-ios-sdk",
+          "status": "live"
+        },
+        {
+          "name": "UniCredit",
+          "url": "https://www.bankaustria.at/tap-to-pay.jsp",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Viva.com",
+          "url": "https://www.viva.com/de-at/tap-to-pay-on-iphone",
+          "sdk_url": "https://developer.viva.com/apis-for-point-of-sale/card-terminal-apps/ios-app/",
+          "status": "live"
+        },
+        {
+          "name": "Worldline",
+          "url": "https://www.payone.com/AT-de/bezahlloesungen/bankomat-kassen/tap-to-pay-on-iphone",
+          "sdk_url": "https://worldline.com/en/home/main-navigation/solutions/merchants/tap-on-mobile",
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "BE",
+      "name": "Belgium",
+      "psps": [
+        {
+          "name": "Adyen",
+          "url": "https://www.adyen.com/pos-payments/tap-to-pay-on-iphone/",
+          "sdk_url": "https://docs.adyen.com/point-of-sale/ipp-mobile/tap-to-pay",
+          "status": "live"
+        },
+        {
+          "name": "Axepta",
+          "url": "https://www.axeptabnpparibas.be/fr/encaisser-avec-votre-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Mollie",
+          "url": "https://www.mollie.com/be/products/pos-payments/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "myPOS",
+          "url": "https://www.mypos.com/nl-be/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Pay.nl",
+          "url": "https://www.pay.nl/nl-be/tap-to-pay-op-iphone",
+          "sdk_url": "https://developer.pay.nl/docs/full-integrated-sdk",
+          "status": "live"
+        },
+        {
+          "name": "Rapyd",
+          "url": "https://www.rapyd.net/fr/tap-to-pay-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Revolut",
+          "url": "https://www.revolut.com/en-BE/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/en-be/terminal/tap-to-pay",
+          "sdk_url": "https://docs.stripe.com/terminal/payments/setup-reader/tap-to-pay?platform=ios",
+          "status": "live"
+        },
+        {
+          "name": "SumUp",
+          "url": "https://www.sumup.com/fr-be/tap-to-pay-on-iphone/",
+          "sdk_url": "https://github.com/sumup/sumup-ios-sdk",
+          "status": "live"
+        },
+        {
+          "name": "Viva.com",
+          "url": "https://www.viva.com/fr-be/tap-to-pay-on-iphone",
+          "sdk_url": "https://developer.viva.com/apis-for-point-of-sale/card-terminal-apps/ios-app/",
+          "status": "live"
+        },
+        {
+          "name": "Worldline",
+          "url": "https://worldline.com/fr-be/home/main-navigation/solutions/merchants/all-in-one-solutions/in-store/tap-to-pay-on-iphone",
+          "sdk_url": "https://worldline.com/en/home/main-navigation/solutions/merchants/tap-on-mobile",
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "BR",
+      "name": "Brazil",
+      "psps": [
+        {
+          "name": "Cielo",
+          "url": "https://www.cielo.com.br/tap-to-pay/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Cloudwalk",
+          "url": "https://www.infinitepay.io/tap-to-pay",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Granito",
+          "url": null,
+          "sdk_url": null,
+          "status": "coming_soon"
+        },
+        {
+          "name": "Mercado Pago",
+          "url": "https://www.mercadopago.com.br/ferramentas-para-vender/tap-to-pay-no-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Nubank",
+          "url": "https://nubank.com.br/taptopayiphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Stone",
+          "url": "https://www.ton.com.br/tap-to-pay-no-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "SumUp",
+          "url": "https://www.sumup.com/pt-br/tap-to-pay/iphone/",
+          "sdk_url": "https://github.com/sumup/sumup-ios-sdk",
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "BG",
+      "name": "Bulgaria",
+      "psps": [
+        {
+          "name": "Adyen",
+          "url": "https://www.adyen.com/devices/tap-to-pay-on-iphone",
+          "sdk_url": "https://docs.adyen.com/point-of-sale/ipp-mobile/tap-to-pay",
+          "status": "live"
+        },
+        {
+          "name": "myPOS",
+          "url": "mypos.com/bg-bg/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Rapyd",
+          "url": "https://www.rapyd.net/fr/tap-to-pay-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Revolut",
+          "url": "https://www.revolut.com/en-BG/tap-to-pay-on-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/en-bg/terminal/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "SumUp",
+          "url": "https://www.sumup.com/bg-bg/tap-to-pay-on-iphone/",
+          "sdk_url": "https://github.com/sumup/sumup-ios-sdk",
+          "status": "live"
+        },
+        {
+          "name": "Viva.com",
+          "url": "https://www.viva.com/bg-bg/tap-to-pay-on-iphone",
+          "sdk_url": "https://developer.viva.com/apis-for-point-of-sale/card-terminal-apps/ios-app/",
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "CA",
+      "name": "Canada",
+      "psps": [
+        {
+          "name": "Adyen",
+          "url": "https://www.adyen.com/devices/tap-to-pay-on-iphone",
+          "sdk_url": "https://docs.adyen.com/point-of-sale/ipp-mobile/tap-to-pay",
+          "status": "live"
+        },
+        {
+          "name": "Chase",
+          "url": "https://www.jpmorgan.com/payments/solutions/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Clover from Fiserv",
+          "url": "https://www.carat.fiserv.com/en-us/lp/apple-tap-to-pay-on-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Moneris",
+          "url": "https://www.moneris.com/en/solutions/mobile/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Square",
+          "url": "https://squareup.com/ca/en/payments/tap-to-pay",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/en-ca/terminal/tap-to-pay-on-iphone",
+          "sdk_url": "https://stripe.com/docs/terminal/payments/setup-reader/tap-to-pay?platform=ios",
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "CL",
+      "name": "Chile",
+      "psps": [
+        {
+          "name": "SumUp",
+          "url": "https://www.sumup.com/es-cl/tap-to-pay-iphone/",
+          "sdk_url": "https://github.com/sumup/sumup-ios-sdk",
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "HR",
+      "name": "Croatia",
+      "psps": [
+        {
+          "name": "Adyen",
+          "url": "https://www.adyen.com/pos-payments/tap-to-pay-on-iphone/",
+          "sdk_url": "https://docs.adyen.com/point-of-sale/ipp-mobile/tap-to-pay",
+          "status": "live"
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/en-hr/terminal/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "SumUp",
+          "url": "https://www.sumup.com/hr-hr/tap-to-pay-on-iphone/?exp_qa=pdp",
+          "sdk_url": "https://github.com/sumup/sumup-ios-sdk",
+          "status": "live"
+        },
+        {
+          "name": "Teya",
+          "url": "https://www.teya.com/hr/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Viva.com",
+          "url": "https://www.viva.com/hr-hr/tap-to-pay-on-iphone",
+          "sdk_url": "https://developer.viva.com/apis-for-point-of-sale/card-terminal-apps/ios-app/",
+          "status": "live"
+        },
+        {
+          "name": "Worldline",
+          "url": "https://worldline.com/hr-hr/campaigns/tap-to-pay-on-iphone.html",
+          "sdk_url": null,
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "CY",
+      "name": "Cyprus",
+      "psps": [
+        {
+          "name": "Adyen",
+          "url": "https://www.adyen.com/pos-payments/tap-to-pay-on-iphone/",
+          "sdk_url": "https://docs.adyen.com/point-of-sale/ipp-mobile/tap-to-pay",
+          "status": "live"
+        },
+        {
+          "name": "Revolut",
+          "url": "https://www.revolut.com/en-CY/tap-to-pay-on-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/en-cy/terminal/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "SumUp",
+          "url": "https://www.sumup.com/el-CY/tap-to-pay-on-iphone/",
+          "sdk_url": "https://github.com/sumup/sumup-ios-sdk",
+          "status": "live"
+        },
+        {
+          "name": "Viva.com",
+          "url": "https://www.viva.com/el-cy/tap-to-pay-on-iphone",
+          "sdk_url": "https://developer.viva.com/apis-for-point-of-sale/card-terminal-apps/ios-app/",
+          "status": "live"
+        },
+        {
+          "name": "Worldline",
+          "url": "https://vpayments.com.cy/mobile-payments/tap-to-pay-on-iphone/",
+          "sdk_url": "https://worldline.com/en/home/main-navigation/solutions/merchants/tap-on-mobile",
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "CZ",
+      "name": "Czechia",
+      "psps": [
+        {
+          "name": "Adyen",
+          "url": "https://www.adyen.com/devices/tap-to-pay-on-iphone",
+          "sdk_url": "https://docs.adyen.com/point-of-sale/ipp-mobile/tap-to-pay/",
+          "status": "live"
+        },
+        {
+          "name": "Global Payments",
+          "url": "https://www.globalpayments.cz/cs-cz/tap-to-pay",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Mollie",
+          "url": "https://www.mollie.com/products/pos-payments/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Revolut",
+          "url": "https://www.revolut.com/en-CZ/tap-to-pay-on-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/en-cz/terminal/tap-to-pay",
+          "sdk_url": "https://stripe.com/docs/terminal/payments/setup-reader/tap-to-pay?platform=ios",
+          "status": "live"
+        },
+        {
+          "name": "SumUp",
+          "url": "https://www.sumup.com/cs-cz/tap-to-pay-on-iphone",
+          "sdk_url": "https://github.com/sumup/sumup-ios-sdk",
+          "status": "live"
+        },
+        {
+          "name": "Teya",
+          "url": "https://www.teya.com/hr/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Viva.com",
+          "url": "https://www.viva.com/cs-cz/tap-to-pay-on-iphone",
+          "sdk_url": "https://developer.viva.com/apis-for-point-of-sale/card-terminal-apps/ios-app/",
+          "status": "live"
+        },
+        {
+          "name": "Worldline",
+          "url": "https://www.payphone.cz/tap-to-pay-na-iphonu/",
+          "sdk_url": "https://worldline.com/en/home/main-navigation/solutions/merchants/tap-on-mobile",
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "DK",
+      "name": "Denmark",
+      "psps": [
+        {
+          "name": "Adyen",
+          "url": "https://www.adyen.com/pos-payments/tap-to-pay-on-iphone/",
+          "sdk_url": "https://docs.adyen.com/point-of-sale/ipp-mobile/tap-to-pay",
+          "status": "live"
+        },
+        {
+          "name": "Mollie",
+          "url": "https://www.mollie.com/products/pos-payments/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Nexi",
+          "url": "https://payments.nets.eu/da-DK/nets-softpos",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "PayPal",
+          "url": "https://www.paypal.com/dk/business/pos-system/tap-to-pay",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Rapyd",
+          "url": "https://www.rapyd.net/products/payments/in-store/tap-to-pay-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Revolut",
+          "url": "https://www.revolut.com/en-DK/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/en-dk/terminal/tap-to-pay",
+          "sdk_url": "https://docs.stripe.com/terminal/payments/setup-reader/tap-to-pay?platform=ios",
+          "status": "live"
+        },
+        {
+          "name": "SumUp",
+          "url": "https://www.sumup.com/da-dk/tap-to-pay-on-iphone/",
+          "sdk_url": "https://github.com/sumup/sumup-ios-sdk",
+          "status": "live"
+        },
+        {
+          "name": "Surfboard Payments",
+          "url": "https://www.surfboardpayments.com/products/tap-to-pay-on-iphone/?curr=dkk",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Viva.com",
+          "url": "https://www.viva.com/da-dk/tap-to-pay-on-iphone",
+          "sdk_url": "https://developer.viva.com/apis-for-point-of-sale/card-terminal-apps/ios-app/",
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "EE",
+      "name": "Estonia",
+      "psps": [
+        {
+          "name": "Revolut",
+          "url": "https://www.revolut.com/en-EE/tap-to-pay-on-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/en-ee/terminal/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "SumUp",
+          "url": "https://www.sumup.com/et-ee/tap-to-pay-on-iphone/om/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Surfboard Payments",
+          "url": "https://www.surfboardpayments.com/products/tap-to-pay-on-iphone/?curr=eur",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Viva.com",
+          "url": "https://www.viva.com/en-ee/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "FO",
+      "name": "Faroe Islands",
+      "psps": [
+        {
+          "name": "Nexi",
+          "url": "https://payments.nets.eu/da-DK/nets-softpos",
+          "sdk_url": null,
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "FI",
+      "name": "Finland",
+      "psps": [
+        {
+          "name": "Adyen",
+          "url": "https://www.adyen.com/devices/tap-to-pay-on-iphone",
+          "sdk_url": "https://docs.adyen.com/point-of-sale/ipp-mobile/tap-to-pay",
+          "status": "live"
+        },
+        {
+          "name": "Mollie",
+          "url": "https://www.mollie.com/products/pos-payments/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Nexi",
+          "url": "https://payments.nets.eu/fi-FI/nets-softpos",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "PayPal",
+          "url": "https://www.paypal.com/FI/campaign/tap-to-pay-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Rapyd",
+          "url": "https://www.rapyd.net/products/payments/in-store/tap-to-pay-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Revolut",
+          "url": "https://www.revolut.com/en-FI/tap-to-pay-on-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/en-fi/terminal/tap-to-pay",
+          "sdk_url": "https://docs.stripe.com/terminal/payments/setup-reader/tap-to-pay?platform=ios",
+          "status": "live"
+        },
+        {
+          "name": "SumUp",
+          "url": "https://sumup.com/fi-fi/tap-to-pay-on-iphone",
+          "sdk_url": "https://github.com/sumup/sumup-ios-sdk",
+          "status": "live"
+        },
+        {
+          "name": "Surfboard Payments",
+          "url": "https://www.surfboardpayments.com/products/tap-to-pay-on-iphone/?lang=fi-fi",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Viva.com",
+          "url": "https://www.viva.com/fi-fi/tap-to-pay-on-iphone/",
+          "sdk_url": "https://developer.viva.com/apis-for-point-of-sale/card-terminal-apps/ios-app/",
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "FR",
+      "name": "France",
+      "psps": [
+        {
+          "name": "Adyen",
+          "url": "https://www.adyen.com/fr_FR/terminaux/tap-to-pay-on-iphone",
+          "sdk_url": "https://docs.adyen.com/point-of-sale/ipp-mobile/tap-to-pay",
+          "status": "live"
+        },
+        {
+          "name": "Banque BCP",
+          "url": "https://www.banquebcp.fr/professionnels/gerer-vos-comptes-au-quotidien/tap-to-pay-apple/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Banque Populaire",
+          "url": "https://www.banquepopulaire.fr/professionnels/gerer-developper-activite/tap-to-pay/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "BNP Paribas",
+          "url": "https://mabanquepro.bnpparibas/fr/notre-offre-pro/comptes-cartes-et-services/solutions-d-encaissement/encaissement-par-carte/tap-to-pay",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Caisse d'Épargne",
+          "url": "https://www.caisse-epargne.fr/professionnels/encaisser-client/tap-to-pay/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Contodeo",
+          "url": "https://contodeo.com/solutions/tap-to-pay/tap-to-pay-sur-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Crédit Coopératif",
+          "url": "https://www.credit-cooperatif.coop/entreprises/comptes-flux/tap-to-pay",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Lyra",
+          "url": "https://www.lyra.com/fr/guides/tap-to-pay-sur-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Market Pay",
+          "url": "https://new-website.dev.market-pay.com/tap-to-pay",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Mollie",
+          "url": "https://www.mollie.com/products/pos-payments/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "myPOS",
+          "url": "https://www.mypos.com/fr-fr/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "PayPal",
+          "url": "https://www.paypal.com/Fr/campaign/tap-to-pay-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Payplug",
+          "url": "https://www.payplug.com/fr/tap-to-pay",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Rapyd",
+          "url": "https://www.rapyd.net/fr/tap-to-pay-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Revolut",
+          "url": "https://www.revolut.com/fr-FR/tap-to-pay-on-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Smile and Pay",
+          "url": "https://www.smileandpay.com/tap-to-pay-sur-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Square",
+          "url": "https://squareup.com/fr/fr/payments/tap-to-pay",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Stancer",
+          "url": "https://www.stancer.com/fr/tap-to-pay-sur-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/fr/terminal/tap-to-pay",
+          "sdk_url": "https://stripe.com/docs/terminal/payments/setup-reader/tap-to-pay?platform=ios",
+          "status": "live"
+        },
+        {
+          "name": "SumUp",
+          "url": "https://sumup.fr/tap-to-pay-on-iphone/",
+          "sdk_url": "https://github.com/sumup/sumup-ios-sdk",
+          "status": "live"
+        },
+        {
+          "name": "Surfboard Payments",
+          "url": "https://www.surfboardpayments.com/products/tap-to-pay-on-iphone?curr=eur",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Viva.com",
+          "url": "https://www.viva.com/fr-fr/tap-to-pay-on-iphone",
+          "sdk_url": "https://developer.viva.com/apis-for-point-of-sale/card-terminal-apps/ios-app/",
+          "status": "live"
+        },
+        {
+          "name": "Worldline",
+          "url": "https://worldline.com/fr-fr/campaigns/ms/tap-to-pay-on-iphone.html",
+          "sdk_url": "https://worldline.com/en/home/main-navigation/solutions/merchants/tap-on-mobile",
+          "status": "live"
+        },
+        {
+          "name": "Yavin",
+          "url": "https://lp.yavin.com/tap-to-pay",
+          "sdk_url": null,
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "DE",
+      "name": "Germany",
+      "psps": [
+        {
+          "name": "Adyen",
+          "url": "https://www.adyen.com/de_DE/terminals/tap-to-pay-on-iphone",
+          "sdk_url": "https://docs.adyen.com/point-of-sale/ipp-mobile/tap-to-pay",
+          "status": "live"
+        },
+        {
+          "name": "Commerz Globalpay",
+          "url": "https://www.commerz-globalpay.com/de-de/tap-to-pay",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Hobex",
+          "url": "https://www.hobex.at/posit/tap-to-pay/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Mollie",
+          "url": "https://www.mollie.com/products/pos-payments/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "myPOS",
+          "url": "https://www.mypos.com/de-de/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Nexi",
+          "url": "https://www.nexi.de/de/bezahlloesungen-pos/softpos/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "PAYONE",
+          "url": "https://www.payone.com/DE-de/bezahlloesungen/kartenlesegeraete/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Rapyd",
+          "url": "https://www.rapyd.net/de/tap-to-pay-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Revolut",
+          "url": "https://www.revolut.com/en-DE/business/tap-to-pay-on-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Sparkassen-Finanzgruppe",
+          "url": "https://www.sparkasse-pos.de/ios.html",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/de/terminal/tap-to-pay-on-iphone",
+          "sdk_url": "https://stripe.com/docs/terminal/payments/setup-reader/tap-to-pay?platform=ios",
+          "status": "live"
+        },
+        {
+          "name": "SumUp",
+          "url": "https://www.sumup.com/de-de/tap-to-pay-on-iphone/",
+          "sdk_url": "https://github.com/sumup/sumup-ios-sdk",
+          "status": "live"
+        },
+        {
+          "name": "Viva.com",
+          "url": "https://www.viva.com/de-de/tap-to-pay-on-iphone",
+          "sdk_url": "https://developer.viva.com/apis-for-point-of-sale/card-terminal-apps/ios-app/",
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "GR",
+      "name": "Greece",
+      "psps": [
+        {
+          "name": "Global Payments",
+          "url": "https://nbgpay.globalpayments.com/en-gr",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "myPOS",
+          "url": "https://www.mypos.com/el-gr/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Viva.com",
+          "url": "https://www.viva.com/el-gr/tap-to-pay-on-iphone",
+          "sdk_url": "https://developer.viva.com/apis-for-point-of-sale/card-terminal-apps/ios-app/",
+          "status": "live"
+        },
+        {
+          "name": "Worldline",
+          "url": "https://worldline.com/el-gr/campaigns/ms/tap-to-pay-on-iphone",
+          "sdk_url": "https://worldline.com/en/home/main-navigation/solutions/merchants/tap-on-mobile",
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "GL",
+      "name": "Greenland",
+      "psps": [
+        {
+          "name": "Nexi",
+          "url": "https://payments.nets.eu/da-DK/nets-softpos",
+          "sdk_url": null,
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "HK",
+      "name": "Hong Kong",
+      "psps": [
+        {
+          "name": "Adyen",
+          "url": "https://www.adyen.com/devices/tap-to-pay-on-iphone-hk",
+          "sdk_url": "https://docs.adyen.com/point-of-sale/ipp-mobile",
+          "status": "live"
+        },
+        {
+          "name": "Global Payments",
+          "url": "https://go.globalpayments.com/zh-hk/tap-to-pay",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "SoéPay",
+          "url": "https://soepay.com/tap-to-pay-on-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "HU",
+      "name": "Hungary",
+      "psps": [
+        {
+          "name": "Adyen",
+          "url": "https://www.adyen.com/devices/tap-to-pay-on-iphone",
+          "sdk_url": "https://docs.adyen.com/point-of-sale/ipp-mobile/tap-to-pay/",
+          "status": "live"
+        },
+        {
+          "name": "Global Payments",
+          "url": "https://www.globalpayments.com/hu-hu/tap-to-pay",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "myPOS",
+          "url": "mypos.com/hu-hu/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Revolut",
+          "url": "https://www.revolut.com/en-HU/tap-to-pay-on-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/en-hu/terminal/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "SumUp",
+          "url": "https://sumup.com/hu-hu/tap-to-pay-on-iphone",
+          "sdk_url": "https://github.com/sumup/sumup-ios-sdk",
+          "status": "live"
+        },
+        {
+          "name": "Surfboard Payments",
+          "url": "https://www.surfboardpayments.com/products/tap-to-pay-on-iphone?curr=huf",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Teya",
+          "url": "https://www.teya.com/hu/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Viva.com",
+          "url": "https://www.viva.com/hu-hu/tap-to-pay-on-iphone",
+          "sdk_url": "https://developer.viva.com/apis-for-point-of-sale/card-terminal-apps/ios-app/",
+          "status": "live"
+        },
+        {
+          "name": "Worldline",
+          "url": "https://worldline.com/hu-hu/campaigns/tap-to-pay-on-iphone/get-started",
+          "sdk_url": "https://worldline.com/en/home/main-navigation/solutions/merchants/tap-on-mobile",
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "IS",
+      "name": "Iceland",
+      "psps": [
+        {
+          "name": "Adyen",
+          "url": "https://www.adyen.com/pos-payments/tap-to-pay-on-iphone/",
+          "sdk_url": "https://docs.adyen.com/point-of-sale/ipp-mobile/tap-to-pay",
+          "status": "live"
+        },
+        {
+          "name": "Rapyd",
+          "url": "https://www.rapyd.net/is/posar/tap-to-pay-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Revolut",
+          "url": "https://www.revolut.com/en-IS/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Teya",
+          "url": "https://www.teya.com/is/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "IE",
+      "name": "Ireland",
+      "psps": [
+        {
+          "name": "Adyen",
+          "url": "https://www.adyen.com/devices/tap-to-pay-on-iphone",
+          "sdk_url": "https://docs.adyen.com/point-of-sale/ipp-mobile/tap-to-pay/",
+          "status": "live"
+        },
+        {
+          "name": "Global Payments",
+          "url": "https://www.boipa.com/en-ie/on-the-go/tap-to-pay-on-iphone ",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Mollie",
+          "url": "https://www.mollie.com/products/pos-payments/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Rapyd",
+          "url": "https://www.rapyd.net/products/payments/in-store/tap-to-pay-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Revolut",
+          "url": "https://www.revolut.com/en-IE/tap-to-pay-on-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Square",
+          "url": "https://squareup.com/ie/en/payments/tap-to-pay",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/ie/terminal/tap-to-pay",
+          "sdk_url": "https://stripe.com/docs/terminal/payments/setup-reader/tap-to-pay?platform=ios",
+          "status": "live"
+        },
+        {
+          "name": "SumUp",
+          "url": "https://www.sumup.com/en-ie/tap-to-pay-on-iphone",
+          "sdk_url": "https://github.com/sumup/sumup-ios-sdk",
+          "status": "live"
+        },
+        {
+          "name": "Surfboard Payments",
+          "url": "https://www.surfboardpayments.com/products/tap-to-pay-on-iphone/?curr=eur",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Viva.com",
+          "url": "https://www.viva.com/en-ie/tap-to-pay-on-iphone",
+          "sdk_url": "https://developer.viva.com/apis-for-point-of-sale/card-terminal-apps/ios-app/",
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "IT",
+      "name": "Italy",
+      "psps": [
+        {
+          "name": "Adyen",
+          "url": "https://www.adyen.com/it_IT/devices/tap-to-pay-on-iphone",
+          "sdk_url": "https://docs.adyen.com/point-of-sale/ipp-mobile/tap-to-pay",
+          "status": "live"
+        },
+        {
+          "name": "Fabrick",
+          "url": "https://www.fabrick.com/it-it/prodotti/tap-to-pay/tap-to-pay-su-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Hobex",
+          "url": "https://www.hobex.at/it/posit/tap-to-pay/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Mollie",
+          "url": "https://www.mollie.com/it/products/pos-payments/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "myPOS",
+          "url": "https://www.mypos.com/it-it/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Nexi",
+          "url": "https://www.nexi.it/it/pos/softpos/tap-to-pay-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Numia",
+          "url": "https://paybyapp.gruppobcciccrea.it/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "PayPal",
+          "url": "https://www.paypal.com/IT/campaign/tap-to-pay-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Revolut",
+          "url": "https://www.revolut.com/en-IT/business/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Sella",
+          "url": "https://promo.sella.it/landing/tap-to-pay",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/it/terminal/tap-to-pay",
+          "sdk_url": "https://stripe.com/docs/terminal/payments/setup-reader/tap-to-pay?platform=ios",
+          "status": "live"
+        },
+        {
+          "name": "SumUp",
+          "url": "https://www.sumup.com/it-it/tap-to-pay-on-iphone/",
+          "sdk_url": "https://github.com/sumup/sumup-ios-sdk",
+          "status": "live"
+        },
+        {
+          "name": "Teya",
+          "url": "https://www.teya.com/it/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "UniCredit",
+          "url": "https://www.unicredit.it/it/piccole-imprese/incassi-e-pagamenti/tutti-i-prodotti-di-incasso-e-pagamento/servizi-di-incasso/inapp-pos.html",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Viva.com",
+          "url": "https://www.viva.com/it-it/tap-to-pay-on-iphone",
+          "sdk_url": "https://developer.viva.com/apis-for-point-of-sale/card-terminal-apps/ios-app/",
+          "status": "live"
+        },
+        {
+          "name": "Worldline",
+          "url": "https://www.worldlineitalia.it/soluzioni/tap-to-pay-on-iphone/",
+          "sdk_url": "https://worldline.com/en/home/main-navigation/solutions/merchants/tap-on-mobile",
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "JP",
+      "name": "Japan",
+      "psps": [
+        {
+          "name": "Adyen",
+          "url": "https://www.adyen.com/ja_JP/devices/tap-to-pay-on-iphone",
+          "sdk_url": "https://docs.adyen.com/point-of-sale/ipp-mobile/tap-to-pay",
+          "status": "live"
+        },
+        {
+          "name": "GMO-FG",
+          "url": "https://www.smbc-gp.co.jp/stera/tap/iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Recruit",
+          "url": "https://airregi.jp/payment/service/airpaytouch/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Square",
+          "url": "https://squareup.com/jp/ja/payments/tap-to-pay/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/jp/terminal/tap-to-pay-on-iphone",
+          "sdk_url": "https://docs.stripe.com/terminal/payments/setup-reader/tap-to-pay?platform=ios",
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "LV",
+      "name": "Latvia",
+      "psps": [
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/en-lv/terminal/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "SumUp",
+          "url": "https://www.sumup.com/lv-lv/tap-to-pay-on-iphone/om/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Surfboard Payments",
+          "url": "https://www.surfboardpayments.com/products/tap-to-pay-on-iphone/?curr=eur",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Viva.com",
+          "url": "https://www.viva.com/en-lv/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "LI",
+      "name": "Liechtenstein",
+      "psps": [
+        {
+          "name": "Adyen",
+          "url": "https://www.adyen.com/pos-payments/tap-to-pay-on-iphone/",
+          "sdk_url": "https://docs.adyen.com/point-of-sale/ipp-mobile/tap-to-pay",
+          "status": "live"
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/en-li/terminal/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "LT",
+      "name": "Lithuania",
+      "psps": [
+        {
+          "name": "Revolut",
+          "url": "https://www.revolut.com/en-LT/tap-to-pay-on-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/en-lt/terminal/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "SumUp",
+          "url": "https://www.sumup.com/lt-lt/tap-to-pay-on-iphone/om/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Surfboard Payments",
+          "url": "https://www.surfboardpayments.com/products/tap-to-pay-on-iphone/?curr=eur",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Viva.com",
+          "url": "https://www.viva.com/en-lt/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "LU",
+      "name": "Luxembourg",
+      "psps": [
+        {
+          "name": "Adyen",
+          "url": "https://www.adyen.com/pos-payments/tap-to-pay-on-iphone/",
+          "sdk_url": "https://docs.adyen.com/point-of-sale/ipp-mobile/tap-to-pay",
+          "status": "live"
+        },
+        {
+          "name": "Axepta",
+          "url": "https://www.axeptabnpparibas.be/fr/tap-to-pay-sur-iphone-luxembourg-axepta-bnp-paribas-soft/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Mollie",
+          "url": "https://www.mollie.com/products/pos-payments/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Rapyd",
+          "url": "https://www.rapyd.net/fr/tap-to-pay-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Revolut",
+          "url": "https://www.revolut.com/en-LU/business/tap-to-pay-on-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/en-lu/terminal/tap-to-pay",
+          "sdk_url": "https://docs.stripe.com/terminal/payments/setup-reader/tap-to-pay?platform=ios",
+          "status": "live"
+        },
+        {
+          "name": "SumUp",
+          "url": "https://www.sumup.com/fr-lu/tap-to-pay-on-iphone/",
+          "sdk_url": "https://github.com/sumup/sumup-ios-sdk",
+          "status": "live"
+        },
+        {
+          "name": "Viva.com",
+          "url": "https://www.viva.com/fr-lu/tap-to-pay-on-iphone",
+          "sdk_url": "https://developer.viva.com/apis-for-point-of-sale/card-terminal-apps/ios-app/",
+          "status": "live"
+        },
+        {
+          "name": "Worldline",
+          "url": "https://worldline.com/en-lu/campaigns/ms/tap-to-pay-on-iphone",
+          "sdk_url": "https://worldline.com/en/home/main-navigation/solutions/merchants/tap-on-mobile",
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "MY",
+      "name": "Malaysia",
+      "psps": [
+        {
+          "name": "Fiuu",
+          "url": "https://fiuu.com/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "NTT DATA Payment Services",
+          "url": "https://my.nttdatapay.com/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/en-sg/terminal/tap-to-pay-on-iphone",
+          "sdk_url": "https://docs.stripe.com/terminal/payments/setup-reader/tap-to-pay?platform=ios",
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "MT",
+      "name": "Malta",
+      "psps": [
+        {
+          "name": "Adyen",
+          "url": "https://www.adyen.com/pos-payments/tap-to-pay-on-iphone/",
+          "sdk_url": "https://docs.adyen.com/point-of-sale/ipp-mobile/tap-to-pay",
+          "status": "live"
+        },
+        {
+          "name": "Global Payments",
+          "url": "https://www.globalpayments.com/en-mt/tap-to-pay",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Revolut",
+          "url": "https://www.revolut.com/en-MT/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/en-mt/terminal/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "SumUp",
+          "url": "https://www.sumup.com/en-mt/tap-to-pay-on-iphone/",
+          "sdk_url": "https://github.com/sumup/sumup-ios-sdk",
+          "status": "live"
+        },
+        {
+          "name": "Trust Payments",
+          "url": "https://www.trustpayments.com/products/apple-tap-to-pay/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Viva.com",
+          "url": "https://www.viva.com/en-mt/tap-to-pay-on-iphone",
+          "sdk_url": "https://developer.viva.com/apis-for-point-of-sale/card-terminal-apps/ios-app/",
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "MX",
+      "name": "Mexico",
+      "psps": [
+        {
+          "name": "Adyen",
+          "url": "https://www.adyen.com/es_MX/dispositivos/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Clip",
+          "url": "https://www.clip.mx/soluciones/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Mercado Pago",
+          "url": "https://www.mercadopago.com.mx/herramientas-para-vender/point-tap-ios",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Visa Acceptance Solutions",
+          "url": "https://www.visa.com.mx/solutions/datasheets/acceptance-devices-tap-to-iphone.html",
+          "sdk_url": null,
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "MC",
+      "name": "Monaco",
+      "psps": [
+        {
+          "name": "BNP Paribas",
+          "url": "https://mabanquepro.bnpparibas/fr/notre-offre-pro/comptes-cartes-et-services/solutions-d-encaissement/encaissement-par-carte/tap-to-pay",
+          "sdk_url": null,
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "NL",
+      "name": "Netherlands",
+      "psps": [
+        {
+          "name": "Adyen",
+          "url": "https://www.adyen.com/nl_NL/pinapparaten/tap-to-pay-on-iphone",
+          "sdk_url": "https://docs.adyen.com/point-of-sale/ipp-mobile/tap-to-pay",
+          "status": "live"
+        },
+        {
+          "name": "Klearly",
+          "url": "https://klearly.nl/ttpoi/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Mollie",
+          "url": "https://www.mollie.com/products/pos-payments/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "myPOS",
+          "url": "https://mypos.com/nl-nl/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Pay.nl",
+          "url": "https://www.pay.nl/en/tap-to-pay-on-iphone",
+          "sdk_url": "https://developer.pay.nl/docs/full-integrated-sdk",
+          "status": "live"
+        },
+        {
+          "name": "PayPal",
+          "url": "https://devcms.apple.com/tap-to-pay/regions/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Rabobank",
+          "url": "https://www.rabobank.nl/bedrijven/betalen/klanten-laten-betalen/rabo-smart-pay/rabo-smartpin/tap-to-pay/tap-to-pay-op-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Rapyd",
+          "url": "https://www.rapyd.net/products/payments/in-store/tap-to-pay-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Revolut",
+          "url": "http://revolut.com/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/nl/terminal/tap-to-pay",
+          "sdk_url": "https://stripe.com/docs/terminal/payments/setup-reader/tap-to-pay?platform=ios",
+          "status": "live"
+        },
+        {
+          "name": "SumUp",
+          "url": "https://www.sumup.com/nl-nl/tap-to-pay-op-iphone/",
+          "sdk_url": "https://github.com/sumup/sumup-ios-sdk",
+          "status": "live"
+        },
+        {
+          "name": "Viva.com",
+          "url": "https://www.viva.com/en-gb/tap-to-pay-on-iphone",
+          "sdk_url": "https://developer.viva.com/apis-for-point-of-sale/card-terminal-apps/ios-app/",
+          "status": "live"
+        },
+        {
+          "name": "Worldline",
+          "url": "https://pinnen.nl/nl/home/betaaloplossingen/pinautomaat/tap-to-pay-op-iPhone.html",
+          "sdk_url": "https://worldline.com/en/home/main-navigation/solutions/merchants/tap-on-mobile",
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "NZ",
+      "name": "New Zealand",
+      "psps": [
+        {
+          "name": "Adyen",
+          "url": "https://www.adyen.com/devices/tap-to-pay-on-iphone",
+          "sdk_url": "https://docs.adyen.com/point-of-sale/ipp-mobile/tap-to-pay/",
+          "status": "live"
+        },
+        {
+          "name": "ANZ Bank",
+          "url": "www.anz.co.nz/fastpayiphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Emerge",
+          "url": null,
+          "sdk_url": null,
+          "status": "coming_soon"
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/nz/terminal/tap-to-pay-on-iphone",
+          "sdk_url": "https://docs.stripe.com/terminal/payments/setup-reader/tap-to-pay?platform=ios",
+          "status": "live"
+        },
+        {
+          "name": "Windcave",
+          "url": "windcave.com/tap-to-pay-on-iphone",
+          "sdk_url": "https://www.windcave.com/developer-attended-tap-to-pay-on-iPhone",
+          "status": "live"
+        },
+        {
+          "name": "Worldline",
+          "url": "https://worldline.com/en-nz/home/main-navigation/solutions/tap-on-mobile/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "NO",
+      "name": "Norway",
+      "psps": [
+        {
+          "name": "Adyen",
+          "url": "https://www.adyen.com/no_NO/enheter/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Nexi",
+          "url": "https://payments.nets.eu/nb-NO/nets-softpos",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "PayPal",
+          "url": "https://www.paypal.com/no/campaign/tap-to-pay-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Rapyd",
+          "url": "https://www.rapyd.net/products/payments/in-store/tap-to-pay-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/en-no/terminal/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "SumUp",
+          "url": "https://www.sumup.com/nb-no/tap-to-pay-on-iphone/om/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Surfboard Payments",
+          "url": "https://www.surfboardpayments.com/products/tap-to-pay-on-iphone?curr=nok ",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Viva.com",
+          "url": "https://www.viva.com/nb-no/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "PL",
+      "name": "Poland",
+      "psps": [
+        {
+          "name": "Adyen",
+          "url": "https://www.adyen.com/pl_PL/terminale/tap-to-pay-on-iphone",
+          "sdk_url": "https://docs.adyen.com/point-of-sale/ipp-mobile/tap-to-pay",
+          "status": "live"
+        },
+        {
+          "name": "Global Payments/eService",
+          "url": "https://www.eservice.pl/tap-to-pay",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Mollie",
+          "url": "https://www.mollie.com/pl/products/pos-payments/tap-to-pay-on-iphone.",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "PlanetPay",
+          "url": "planetpay.pl/tap2pay",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/en-pl/terminal/tap-to-pay",
+          "sdk_url": "https://stripe.com/docs/terminal/payments/setup-reader/tap-to-pay?platform=ios",
+          "status": "live"
+        },
+        {
+          "name": "SumUp",
+          "url": "https://sumup.com/pl-pl/tap-to-pay-on-iphone",
+          "sdk_url": "https://github.com/sumup/sumup-ios-sdk",
+          "status": "live"
+        },
+        {
+          "name": "Surfboard Payments",
+          "url": "https://www.surfboardpayments.com/products/tap-to-pay-on-iphone?curr=pln",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Viva.com",
+          "url": "https://www.viva.com/pl-pl/tap-to-pay-on-iphone",
+          "sdk_url": "https://developer.viva.com/apis-for-point-of-sale/card-terminal-apps/ios-app/",
+          "status": "live"
+        },
+        {
+          "name": "Worldline",
+          "url": "https://worldline.com/pl-pl/campaigns/tap-to-pay-on-iphone/get-started",
+          "sdk_url": "https://worldline.com/en/home/main-navigation/solutions/merchants/tap-on-mobile",
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "PT",
+      "name": "Portugal",
+      "psps": [
+        {
+          "name": "Adyen",
+          "url": "https://www.adyen.com/pt_PT/dispositivos-pos/tap-to-pay-on-iphone",
+          "sdk_url": "https://docs.adyen.com/point-of-sale/ipp-mobile/tap-to-pay",
+          "status": "live"
+        },
+        {
+          "name": "Mollie",
+          "url": "https://www.mollie.com/pt/products/pos-payments/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "myPOS",
+          "url": "mypos.com/pt-pt/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Revolut",
+          "url": "https://www.revolut.com/en-PT/tap-to-pay-on-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/pt-pt/terminal/tap-to-pay",
+          "sdk_url": "https://docs.stripe.com/terminal/payments/setup-reader/tap-to-pay?platform=ios",
+          "status": "live"
+        },
+        {
+          "name": "SumUp",
+          "url": "https://sumup.com/pt-pt/tap-to-pay-on-iphone",
+          "sdk_url": "https://github.com/sumup/sumup-ios-sdk",
+          "status": "live"
+        },
+        {
+          "name": "Teya",
+          "url": "https://www.teya.com/pt/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Viva.com",
+          "url": "https://www.viva.com/pt-pt/tap-to-pay-on-iphone",
+          "sdk_url": "https://developer.viva.com/apis-for-point-of-sale/card-terminal-apps/ios-app/",
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "PR",
+      "name": "Puerto Rico",
+      "psps": [
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/terminal/tap-to-pay-on-iphone/",
+          "sdk_url": "https://stripe.com/docs/terminal/payments/setup-reader/tap-to-pay?platform=ios",
+          "status": "live"
+        },
+        {
+          "name": "Visa Acceptance Solutions",
+          "url": "https://www.visaacceptance.com/en-us/solutions/datasheets/acceptance-devices-tap-to-iphone.html",
+          "sdk_url": "https://developer.visaacceptance.com/docs/vas/en-us/tap-to-pay-ios/integration/all/rest/tap-to-pay-ios/home-merch.html",
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "RO",
+      "name": "Romania",
+      "psps": [
+        {
+          "name": "Adyen",
+          "url": "https://www.adyen.com/devices/tap-to-pay-on-iphone",
+          "sdk_url": "https://docs.adyen.com/point-of-sale/ipp-mobile/tap-to-pay/",
+          "status": "live"
+        },
+        {
+          "name": "Banca Transilvania",
+          "url": "https://www.bancatransilvania.ro/companii/solutii-de-plata/bt-pos-app-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Global Payments",
+          "url": "https://www.globalpayments.ro/ro-ro/tap-to-pay",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "myPOS",
+          "url": "https://www.mypos.com/ro-ro/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Revolut",
+          "url": "https://www.revolut.com/ro-RO/business/tap-to-pay-on-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/en-ro/terminal/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "SumUp",
+          "url": "https://www.sumup.com/ro-ro/tap-to-pay-on-iphone",
+          "sdk_url": "https://github.com/sumup/sumup-ios-sdk",
+          "status": "live"
+        },
+        {
+          "name": "Viva.com",
+          "url": "https://www.viva.com/ro-ro/tap-to-pay-on-iphone",
+          "sdk_url": "https://developer.viva.com/apis-for-point-of-sale/card-terminal-apps/ios-app/",
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "SG",
+      "name": "Singapore",
+      "psps": [
+        {
+          "name": "Adyen",
+          "url": "https://www.adyen.com/devices/tap-to-pay-on-iphone",
+          "sdk_url": "https://docs.adyen.com/point-of-sale/ipp-mobile",
+          "status": "live"
+        },
+        {
+          "name": "Fiuu",
+          "url": "https://fiuu.com/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Grab",
+          "url": "https://www.grab.com/sg/merchant/payment-solutions/tap-to-pay-on-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Revolut",
+          "url": " https://www.revolut.com/en-SG/business/tap-to-pay-on-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/en-sg/terminal/tap-to-pay-on-iphone",
+          "sdk_url": "https://docs.stripe.com/terminal/payments/setup-reader/tap-to-pay?platform=ios",
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "SK",
+      "name": "Slovakia",
+      "psps": [
+        {
+          "name": "Adyen",
+          "url": "https://www.adyen.com/devices/tap-to-pay-on-iphone",
+          "sdk_url": "https://docs.adyen.com/point-of-sale/ipp-mobile/tap-to-pay",
+          "status": "live"
+        },
+        {
+          "name": "Global Payments",
+          "url": "https://www.globalpayments.sk/sk-sk/tap-to-pay",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "myPOS",
+          "url": "https://www.mypos.com/en-sk/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Revolut",
+          "url": "https://www.revolut.com/en-SK/tap-to-pay-on-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/en-sk/terminal/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "SumUp",
+          "url": "https://www.sumup.com/sk-sk/tap-to-pay-on-iphone/",
+          "sdk_url": "https://github.com/sumup/sumup-ios-sdk",
+          "status": "live"
+        },
+        {
+          "name": "Teya",
+          "url": "https://www.teya.com/sk/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Viva.com",
+          "url": "https://www.viva.com/en-sk/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Wordline",
+          "url": "https://worldline.com/sk-sk/campaigns/tap-to-pay-on-iphone/get-started",
+          "sdk_url": "https://worldline.com/en/home/main-navigation/solutions/merchants/tap-on-mobile",
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "SI",
+      "name": "Slovenia",
+      "psps": [
+        {
+          "name": "Adyen",
+          "url": "https://www.adyen.com/devices/tap-to-pay-on-iphone",
+          "sdk_url": "https://docs.adyen.com/point-of-sale/ipp-mobile/tap-to-pay",
+          "status": "live"
+        },
+        {
+          "name": "Hobex",
+          "url": "https://www.hobex.at/sl/posit/tap-to-pay/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Revolut",
+          "url": "https://www.revolut.com/en-SI/tap-to-pay-on-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/en-si/terminal/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "SumUp",
+          "url": "https://www.sumup.com/sl-si/tap-to-pay-on-iphone/",
+          "sdk_url": "https://github.com/sumup/sumup-ios-sdk",
+          "status": "live"
+        },
+        {
+          "name": "Viva.com",
+          "url": "https://www.viva.com/en-sl/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Worldline",
+          "url": "https://worldline.com/sl-si/campaigns/tap-to-pay-on-iphone/get-started",
+          "sdk_url": "https://worldline.com/en/home/main-navigation/solutions/merchants/tap-on-mobile",
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "ZA",
+      "name": "South Africa",
+      "psps": [
+        {
+          "name": "iStore",
+          "url": "https://pay.istore.co.za/apple-tap-to-pay",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Yoco",
+          "url": "https://www.yoco.com/za/tap-to-pay-on-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "ES",
+      "name": "Spain",
+      "psps": [
+        {
+          "name": "Adyen",
+          "url": "https://www.adyen.com/es_ES/dispositivos-tpv/tap-to-pay-on-iphone",
+          "sdk_url": "https://docs.adyen.com/point-of-sale/ipp-mobile/tap-to-pay",
+          "status": "live"
+        },
+        {
+          "name": "Comercia Global Payments",
+          "url": "https://globalpayments.es/pagos-presenciales/smartphone-tpv-ios/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Mollie",
+          "url": "https://www.mollie.com/es/products/pos-payments/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "myPOS",
+          "url": "https://www.mypos.com/es-es/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "PayPal",
+          "url": "https://www.paypal.com/ES/campaign/tap-to-pay-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Rapyd",
+          "url": "https://www.rapyd.net/es/tap-to-pay-on-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Revolut",
+          "url": "https://www.revolut.com/es-ES/tap-to-pay-on-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Sipay",
+          "url": null,
+          "sdk_url": null,
+          "status": "coming_soon"
+        },
+        {
+          "name": "Square",
+          "url": "https://squareup.com/es/es/payments/tap-to-pay",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/en-es/terminal/tap-to-pay",
+          "sdk_url": "https://docs.stripe.com/terminal/payments/setup-reader/tap-to-pay?platform=ios",
+          "status": "live"
+        },
+        {
+          "name": "SumUp",
+          "url": "https://www.sumup.com/es-es/tap-to-pay-on-iphone/",
+          "sdk_url": "https://github.com/sumup/sumup-ios-sdk",
+          "status": "live"
+        },
+        {
+          "name": "Teya",
+          "url": "https://www.teya.com/es/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Viva.com",
+          "url": "https://www.viva.com/en-gb",
+          "sdk_url": null,
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "SE",
+      "name": "Sweden",
+      "psps": [
+        {
+          "name": "Adyen",
+          "url": "https://www.adyen.com/sv_SE/enheter/tap-to-pay-on-iphone",
+          "sdk_url": "https://docs.adyen.com/point-of-sale/ipp-mobile/tap-to-pay/",
+          "status": "live"
+        },
+        {
+          "name": "Mollie",
+          "url": "https://www.mollie.com/se/products/pos-payments/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Nexi",
+          "url": "https://payments.nets.eu/sv-SE/nets-softpos",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "PayPal",
+          "url": "https://www.paypal.com/SE/campaign/tap-to-pay-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Rapyd",
+          "url": "https://www.rapyd.net/products/payments/in-store/tap-to-pay-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Revolut",
+          "url": "https://www.revolut.com/en-SE/tap-to-pay-on-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/se/terminal/tap-to-pay",
+          "sdk_url": "https://stripe.com/docs/terminal/payments/setup-reader/tap-to-pay?platform=ios",
+          "status": "live"
+        },
+        {
+          "name": "SumUp",
+          "url": "https://www.sumup.com/sv-se/tap-to-pay-on-iphone",
+          "sdk_url": "https://github.com/sumup/sumup-ios-sdk",
+          "status": "live"
+        },
+        {
+          "name": "Surfboard Payments",
+          "url": "https://www.surfboardpayments.com/products/tap-to-pay-on-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Viva.com",
+          "url": "https://www.viva.com/sv-se/tap-to-pay-on-iphone",
+          "sdk_url": "https://developer.viva.com/apis-for-point-of-sale/card-terminal-apps/ios-app/",
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "CH",
+      "name": "Switzerland",
+      "psps": [
+        {
+          "name": "Adyen",
+          "url": "https://www.adyen.com/devices/tap-to-pay-on-iphone",
+          "sdk_url": "https://docs.adyen.com/point-of-sale/ipp-mobile/tap-to-pay",
+          "status": "live"
+        },
+        {
+          "name": "Hobex",
+          "url": "https://www.hobex.at/posit/ch-tap-to-pay/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Mollie",
+          "url": "https://www.mollie.com/products/pos-payments/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "myPOS",
+          "url": "https://www.mypos.com/de-ch/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Nexi",
+          "url": "https://www.nexi.swiss/de/produkte/softpos/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Rapyd",
+          "url": " https://www.rapyd.net/fr/tap-to-pay-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/de-ch/terminal/tap-to-pay",
+          "sdk_url": "https://docs.stripe.com/terminal/payments/setup-reader/tap-to-pay?platform=ios",
+          "status": "live"
+        },
+        {
+          "name": "SumUp",
+          "url": "https://sumup.com/de-ch/tap-to-pay-on-iphone",
+          "sdk_url": "https://github.com/sumup/sumup-ios-sdk",
+          "status": "live"
+        },
+        {
+          "name": "Worldline",
+          "url": "https://worldline.com/de-ch/campaigns/ms/tap-to-pay-on-iphone/get-started",
+          "sdk_url": "https://worldline.com/en/home/main-navigation/solutions/merchants/tap-on-mobile",
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "TW",
+      "name": "Taiwan",
+      "psps": [
+        {
+          "name": "CTBC Bank",
+          "url": "https://www.ctbcbank.com/content/dam/minisite/long/creditcard/taptopayoniphone/index.html",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Fubon Bank",
+          "url": "https://www.fubon.com/banking/event/deposit/tap-to-pay-on-iphone/index.html",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Global Payments",
+          "url": "https://go.globalpayments.com/zh-tw/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Intella",
+          "url": "https://intella.co/tap-to-pay-on-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Taishin Bank",
+          "url": "https://mkp.taishinbank.com.tw/TsCms/marketing/expose/WM_20231205134235849/index.html",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "TapPay",
+          "url": "https://www.tappaysdk.com/taiwan-zhtw/service/tap-to-pay",
+          "sdk_url": "https://github.com/TapPay/tappay-ios-t2p-sdk",
+          "status": "live"
+        },
+        {
+          "name": "TURN CLOUD",
+          "url": "https://www.turn2cloud.com/tap2pay",
+          "sdk_url": null,
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "UA",
+      "name": "Ukraine",
+      "psps": [
+        {
+          "name": "Monobank",
+          "url": "https://monobank.ua/terminal/tap-to-pay",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Oschadbank",
+          "url": "https://www.oschadbank.ua/msb/oschadpay-ios",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Privat Bank",
+          "url": "https://privatbank.ua/business/terminal/ios",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Raiffeisen",
+          "url": "https://raiffeisen.ua/biznesu/rakhunok_907/ekvairynh/raipos-ios",
+          "sdk_url": null,
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "AE",
+      "name": "United Arab Emirates",
+      "psps": [
+        {
+          "name": "Adyen",
+          "url": "https://www.adyen.com/en_AE/devices/tap-to-pay-on-iphone",
+          "sdk_url": "https://docs.adyen.com/point-of-sale/ipp-mobile/tap-to-pay/",
+          "status": "live"
+        },
+        {
+          "name": "Arab Financial Services",
+          "url": "https://www.arabfinancialservices.ai/en/solutions/business/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Magnati",
+          "url": "https://www.magnati.com/en/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Network International",
+          "url": "https://www.network.ae/merchant-solutions/payment-solutions/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom",
+      "psps": [
+        {
+          "name": "Adyen",
+          "url": "https://www.adyen.com/en_GB/devices/tap-to-pay-on-iphone",
+          "sdk_url": "https://docs.adyen.com/point-of-sale/ipp-mobile/tap-to-pay",
+          "status": "live"
+        },
+        {
+          "name": "Dojo",
+          "url": "https://dojo.tech/tap-to-pay-on-iPhone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Global Payments",
+          "url": "https://www.globalpayments.com/en-gb/tap-to-pay/iphone ",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Mollie",
+          "url": "https://www.mollie.com/gb/products/pos-payments/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "myPOS",
+          "url": "https://mypos.com/en-gb/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "PayPal",
+          "url": "https://www.paypal.com/uk/webapps/mpp/campaigns/tap-to-pay-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Rapyd",
+          "url": "https://www.rapyd.net/products/payments/in-store/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Revolut",
+          "url": "http://revolut.com/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Square",
+          "url": "https://squareup.com/gb/en/payments/tap-to-pay?country_redirection=true",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/gb/terminal/tap-to-pay-on-iphone",
+          "sdk_url": "https://stripe.com/docs/terminal/payments/setup-reader/tap-to-pay?platform=ios",
+          "status": "live"
+        },
+        {
+          "name": "SumUp",
+          "url": "https://www.sumup.com/en-gb/tap-to-pay-on-iphone/",
+          "sdk_url": "https://github.com/sumup/sumup-ios-sdk",
+          "status": "live"
+        },
+        {
+          "name": "Surfboard Payments",
+          "url": "https://www.surfboardpayments.com/products/tap-to-pay-on-iphone/?curr=gbp",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Tapeeno",
+          "url": "https://tapeeno.com/tap-to-pay-on-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Teya",
+          "url": "https://www.teya.com/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Trust Payments",
+          "url": "https://www.trustpayments.com/products/apple-tap-to-pay/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Tyl by NatWest",
+          "url": "https://www.tylbynatwest.com/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Viva.com",
+          "url": "https://www.viva.com/en-gb/tap-to-pay-on-iphone",
+          "sdk_url": "https://developer.viva.com/apis-for-point-of-sale/card-terminal-apps/ios-app/",
+          "status": "live"
+        },
+        {
+          "name": "Worldline",
+          "url": null,
+          "sdk_url": null,
+          "status": "coming_soon"
+        }
+      ]
+    },
+    {
+      "code": "US",
+      "name": "United States",
+      "psps": [
+        {
+          "name": "Adyen",
+          "url": "https://www.adyen.com/pos-payments/tap-to-pay-on-iphone/",
+          "sdk_url": "https://docs.adyen.com/point-of-sale/ipp-mobile/tap-to-pay",
+          "status": "live"
+        },
+        {
+          "name": "Carat from Fiserv",
+          "url": "https://www.carat.fiserv.com/en-us/lp/apple-tap-to-pay-on-iphone/",
+          "sdk_url": "https://github.com/Fiserv/TTPPackage/",
+          "status": "live"
+        },
+        {
+          "name": "Chase",
+          "url": "https://www.jpmorgan.com/payments/solutions/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Clover from Fiserv",
+          "url": "https://www.clover.com/tap-to-pay-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Dejavoo",
+          "url": "https://dejavoo.io/software/tap-to-pay/iposgo-on-iphone/",
+          "sdk_url": "https://docs.ipospays.com/tap-to-pay-on-iphone/in-app-sdk",
+          "status": "live"
+        },
+        {
+          "name": "Deluxe",
+          "url": "https://www.deluxe.com/merchant-services/dlxpay",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Elavon",
+          "url": "https://www.elavon.com/tap-to-pay-on-iphone.html",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Fortis",
+          "url": "https://fortispay.com/tap-to-pay-on-iphone/",
+          "sdk_url": "https://docs.fortis.tech/v/1_0_0.html#/rest/card-present-solutions/tap-to-pay-iphone/overview",
+          "status": "live"
+        },
+        {
+          "name": "GoDaddy",
+          "url": "https://www.godaddy.com/payments/tap-to-pay-on-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Helcim",
+          "url": "https://www.helcim.com/tap-to-pay-on-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "IPOS Systems",
+          "url": "https://ipossystems.com/tap-to-pay-on-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Koard",
+          "url": "https://www.koard.com/tap-to-pay",
+          "sdk_url": "https://docs.koard.com/docs/getting-started-with-koard/introduction",
+          "status": "live"
+        },
+        {
+          "name": "MagTek",
+          "url": "https://www.magtek.com/services/tap-to-pay-on-iphone",
+          "sdk_url": "https://www.magtek.com/support/tap-to-pay-on-iphone?tab=manuals",
+          "status": "live"
+        },
+        {
+          "name": "Moov",
+          "url": "https://moov.io/platform/tap-to-pay-on-iphone/",
+          "sdk_url": "https://docs.moov.io/guides/money-movement/accept-payments/card-acceptance/tap-to-pay-iphone/",
+          "status": "live"
+        },
+        {
+          "name": "NMI",
+          "url": "https://www.nmi.com/products/tap-to-pay-ios/",
+          "sdk_url": "https://docs.nmi.com/docs/mobile-point-of-sale-tap-to-pay-on-iphone",
+          "status": "live"
+        },
+        {
+          "name": "North",
+          "url": "https://www.northamericanbancard.com/products/tap-to-pay-on-iphone",
+          "sdk_url": "https://developer.north.com/products/in-person/mobile-sdks/gateway-ios-sdk",
+          "status": "live"
+        },
+        {
+          "name": "PayPal App",
+          "url": "https://www.paypal.com/us/business/accept-payments/tap-to-pay",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "PayPal Point of Sale",
+          "url": "https://www.paypal.com/us/webapps/mpp/campaigns/tap-to-pay-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Square",
+          "url": "https://squareup.com/us/en/payments/tap-to-pay/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/terminal/tap-to-pay-on-iphone/",
+          "sdk_url": "https://stripe.com/docs/terminal/payments/setup-reader/tap-to-pay?platform=ios",
+          "status": "live"
+        },
+        {
+          "name": "SwipeSimple",
+          "url": "https://home.swipesimple.com/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Venmo for Business",
+          "url": "https://venmo.com/business/tap-to-pay/iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Verifone",
+          "url": "https://www.verifone.com/en/global/tap-pay-iphone",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Visa Acceptance Solutions",
+          "url": "https://www.visaacceptance.com/en-us/solutions/datasheets/acceptance-devices-tap-to-iphone.html",
+          "sdk_url": "https://developer.visaacceptance.com/docs/vas/en-us/tap-to-pay-ios/integration/all/rest/tap-to-pay-ios/home-merch.html",
+          "status": "live"
+        },
+        {
+          "name": "Worldpay",
+          "url": "https://www.worldpay.com/en/products/tap-to-pay-on-iphone",
+          "sdk_url": null,
+          "status": "live"
+        }
+      ]
+    }
+  ]
+}

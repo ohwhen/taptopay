@@ -1,0 +1,41 @@
+name: refresh
+
+on:
+  schedule:
+    - cron: "0 12 * * *"   # daily, 12:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true   # reads .ruby-version + Gemfile.lock, caches gems
+
+      - name: Run refresh
+        run: bundle exec ruby scripts/refresh.rb
+
+      - name: Commit & push if changed
+        run: |
+          set -euo pipefail
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No changes."
+            exit 0
+          fi
+          DATE=$(date -u +%Y-%m-%d)
+          if git diff --quiet -- data.json; then
+            MSG="chore: regenerate README and index.html"
+          else
+            MSG="chore(data): refresh from Apple — ${DATE}"
+          fi
+          git config user.name  "taptopay-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git commit -m "$MSG"
+          git push
