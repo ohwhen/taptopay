@@ -12,7 +12,7 @@ Apple's [Tap to Pay regions page](https://developer.apple.com/tap-to-pay/regions
 
 ## Coverage matrix
 
-Visible: **16 PSPs with reach in 5+ countries**, sorted by coverage. The footer row counts PSPs across *all* 107 entries (including collapsed sections below). `●` live · `◐` announced. PSP names link to each provider's Tap to Pay page.
+Visible: **16 PSPs with reach in 5+ countries**, sorted by coverage. The footer row counts PSPs across *all* 109 entries (including collapsed sections below). `●` live · `◐` announced. PSP names link to each provider's Tap to Pay page.
 
 | PSP | AU | AT | BE | BR | BG | CA | CL | HR | CY | CZ | DK | EE | FO | FI | FR | DE | GR | GL | HK | HU | IS | IE | IT | JP | LV | LI | LT | LU | MY | MT | MX | MC | NL | NZ | NO | PL | PT | PR | RO | SG | SK | SI | ZA | ES | SE | CH | TW | UA | AE | GB | US | Total |
 |:---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|---:|
@@ -32,7 +32,7 @@ Visible: **16 PSPs with reach in 5+ countries**, sorted by coverage. The footer 
 | [Teya](https://www.teya.com/hr/tap-to-pay-on-iphone) |   |   |   |   |   |   |   | ● |   | ● |   |   |   |   |   |   |   |   |   | ● | ● |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   | ● |   |   | ● |   |   |   |   |   | ● |   | **9** |
 | [Square](https://squareup.com/au/en/payments/tap-to-pay) | ● |   |   |   |   | ● |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   | ● |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   | ● | ● | **8** |
 | [Hobex](https://www.hobex.at/posit/tap-to-pay/) |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   | ● |   |   |   |   |   | **5** |
-| **Country total (all PSPs)** | **9** | **13** | **11** | **6**+1◐ | **7** | **6** | **1** | **6** | **6** | **9** | **10** | **5** | **1** | **10** | **24** | **13** | **4** | **1** | **3** | **10** | **4** | **10** | **16** | **5** | **4** | **2** | **5** | **9** | **3** | **7** | **4** | **1** | **13** | **5**+1◐ | **8** | **9** | **8** | **2** | **8** | **5** | **9** | **7** | **2** | **12**+1◐ | **10** | **9** | **7** | **4** | **4** | **17**+1◐ | **25** | **389** |
+| **Country total (all PSPs)** | **9** | **13** | **11** | **6**+1◐ | **7** | **6** | **1** | **6** | **6** | **9** | **10** | **5** | **1** | **10** | **24** | **13** | **4** | **1** | **3** | **10** | **4** | **10** | **16** | **5** | **4** | **2** | **5** | **9** | **3** | **7** | **4** | **1** | **13** | **5**+1◐ | **8** | **10** | **8** | **2** | **8** | **5** | **10** | **7** | **2** | **12**+1◐ | **10** | **9** | **7** | **4** | **4** | **17**+1◐ | **25** | **391** |
 
 <details>
 <summary><strong>Regional PSPs</strong> — 11 more with reach in 2–4 countries</summary>
@@ -54,7 +54,7 @@ Visible: **16 PSPs with reach in 5+ countries**, sorted by coverage. The footer 
 </details>
 
 <details>
-<summary><strong>Country-specific PSPs</strong> — 77 PSPs available in only one country, grouped by country</summary>
+<summary><strong>Country-specific PSPs</strong> — 79 PSPs available in only one country, grouped by country</summary>
 
 | Country | PSPs available *only* here |
 |:---|:---|
@@ -70,10 +70,10 @@ Visible: **16 PSPs with reach in 5+ countries**, sorted by coverage. The footer 
 | Mexico (`MX`) | [Clip](https://www.clip.mx/soluciones/tap-to-pay-on-iphone) |
 | Netherlands (`NL`) | [Klearly](https://klearly.nl/ttpoi/), [Rabobank](https://www.rabobank.nl/bedrijven/betalen/klanten-laten-betalen/rabo-smart-pay/rabo-smartpin/tap-to-pay/tap-to-pay-op-iphone) |
 | New Zealand (`NZ`) | [ANZ Bank](www.anz.co.nz/fastpayiphone) |
-| Poland (`PL`) | [Global Payments/eService](https://www.eservice.pl/tap-to-pay), [PlanetPay](planetpay.pl/tap2pay) |
+| Poland (`PL`) | [Global Payments/eService](https://www.eservice.pl/tap-to-pay), [Nexi Poland (PEP)](https://pep.pl/tap-to-pay/), [PlanetPay](planetpay.pl/tap2pay) |
 | Romania (`RO`) | [Banca Transilvania](https://www.bancatransilvania.ro/companii/solutii-de-plata/bt-pos-app-iphone) |
 | Singapore (`SG`) | [Grab](https://www.grab.com/sg/merchant/payment-solutions/tap-to-pay-on-iphone/) |
-| Slovakia (`SK`) | [Wordline](https://worldline.com/sk-sk/campaigns/tap-to-pay-on-iphone/get-started) |
+| Slovakia (`SK`) | [Tatra Bank](https://www.tatrabanka.sk/sk/business/ucty-platby/prijimanie-platieb/tap-pay-iphone/), [Wordline](https://worldline.com/sk-sk/campaigns/tap-to-pay-on-iphone/get-started) |
 | South Africa (`ZA`) | [iStore](https://pay.istore.co.za/apple-tap-to-pay), [Yoco](https://www.yoco.com/za/tap-to-pay-on-iphone/) |
 | Spain (`ES`) | [Comercia Global Payments](https://globalpayments.es/pagos-presenciales/smartphone-tpv-ios/) |
 | Taiwan (`TW`) | [CTBC Bank](https://www.ctbcbank.com/content/dam/minisite/long/creditcard/taptopayoniphone/index.html), [Fubon Bank](https://www.fubon.com/banking/event/deposit/tap-to-pay-on-iphone/index.html), [Intella](https://intella.co/tap-to-pay-on-iphone/), [Taishin Bank](https://mkp.taishinbank.com.tw/TsCms/marketing/expose/WM_20231205134235849/index.html), [TapPay](https://www.tappaysdk.com/taiwan-zhtw/service/tap-to-pay), [TURN CLOUD](https://www.turn2cloud.com/tap2pay) |
@@ -99,10 +99,10 @@ Visible: **16 PSPs with reach in 5+ countries**, sorted by coverage. The footer 
 
 ## At a glance
 
-- **107 PSPs** across **51 countries / regions** — 389 live PSP × country combinations.
+- **109 PSPs** across **51 countries / regions** — 391 live PSP × country combinations.
 - Broadest reach: **Stripe** (38), **Adyen** (37), **SumUp** (32), **Viva.com** (29), **Revolut** (26).
 - Densest markets: **US** (25 PSPs), **FR** (24 PSPs), **GB** (17 PSPs), **IT** (16 PSPs), **AT** (13 PSPs).
-- Long tail: **77** PSPs are country-specific (one country only).
+- Long tail: **79** PSPs are country-specific (one country only).
 
 ## Interactive table
 
@@ -146,4 +146,4 @@ Machine-readable: [`data.json`](data.json) — the source of truth this README i
 
 ## Source
 
-Apple, [Tap to Pay on iPhone — Regions](https://developer.apple.com/tap-to-pay/regions/). Snapshot: **2026-05-26**.
+Apple, [Tap to Pay on iPhone — Regions](https://developer.apple.com/tap-to-pay/regions/). Snapshot: **2026-06-16**.
