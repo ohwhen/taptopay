@@ -1,5 +1,5 @@
 {
-  "snapshot_date": "2026-06-16",
+  "snapshot_date": "2026-06-17",
   "source_url": "https://developer.apple.com/tap-to-pay/regions/",
   "countries": [
     {
@@ -1761,6 +1761,12 @@
         {
           "name": "PlanetPay",
           "url": "planetpay.pl/tap2pay",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Rapyd",
+          "url": "https://www.rapyd.net/tap-to-pay-iphone-pl/",
           "sdk_url": null,
           "status": "live"
         },

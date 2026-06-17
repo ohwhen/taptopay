@@ -22,7 +22,7 @@ Visible: **16 PSPs with reach in 5+ countries**, sorted by coverage. The footer 
 | [Viva.com](https://www.viva.com/de-at/tap-to-pay-on-iphone) |   | ● | ● |   | ● |   |   | ● | ● | ● | ● | ● |   | ● | ● | ● | ● |   |   | ● |   | ● | ● |   | ● |   | ● | ● |   | ● |   |   | ● |   | ● | ● | ● |   | ● |   | ● | ● |   | ● | ● |   |   |   |   | ● |   | **29** |
 | [Revolut](https://www.revolut.com/de-AT/tap-to-pay-on-iphone/) |   | ● | ● |   | ● |   |   |   | ● | ● | ● | ● |   | ● | ● | ● |   |   |   | ● | ● | ● | ● |   |   |   | ● | ● |   | ● |   |   | ● |   |   |   | ● |   | ● | ● | ● | ● |   | ● | ● |   |   |   |   | ● |   | **26** |
 | [Mollie](https://www.mollie.com/at/products/pos-payments/tap-to-pay-on-iphone) |   | ● | ● |   |   |   |   |   |   | ● | ● |   |   | ● | ● | ● |   |   |   |   |   | ● | ● |   |   |   |   | ● |   |   |   |   | ● |   |   | ● | ● |   |   |   |   |   |   | ● | ● | ● |   |   |   | ● |   | **17** |
-| [Rapyd](https://www.rapyd.net/de/tap-to-pay-iphone/) |   | ● | ● |   | ● |   |   |   |   |   | ● |   |   | ● | ● | ● |   |   |   |   | ● | ● |   |   |   |   |   | ● |   |   |   |   | ● |   | ● |   |   |   |   |   |   |   |   | ● | ● | ● |   |   |   | ● |   | **16** |
+| [Rapyd](https://www.rapyd.net/de/tap-to-pay-iphone/) |   | ● | ● |   | ● |   |   |   |   |   | ● |   |   | ● | ● | ● |   |   |   |   | ● | ● |   |   |   |   |   | ● |   |   |   |   | ● |   | ● | ● |   |   |   |   |   |   |   | ● | ● | ● |   |   |   | ● |   | **17** |
 | [myPOS](https://www.mypos.com/de-at/tap-to-pay-on-iphone) |   | ● | ● |   | ● |   |   |   |   |   |   |   |   |   | ● | ● | ● |   |   | ● |   |   | ● |   |   |   |   |   |   |   |   |   | ● |   |   |   | ● |   | ● |   | ● |   |   | ● |   | ● |   |   |   | ● |   | **15** |
 | [Worldline](https://www.payone.com/AT-de/bezahlloesungen/bankomat-kassen/tap-to-pay-on-iphone) |   | ● | ● |   |   |   |   | ● | ● | ● |   |   |   |   | ● |   | ● |   |   | ● |   |   | ● |   |   |   |   | ● |   |   |   |   | ● | ● |   | ● |   |   |   |   |   | ● |   |   |   | ● |   |   |   | ◐ |   | **15** (+1◐) |
 | [Surfboard Payments](https://www.surfboardpayments.com/products/tap-to-pay-on-iphone/?curr=dkk) |   |   |   |   |   |   |   |   |   |   | ● | ● |   | ● | ● |   |   |   |   | ● |   | ● |   |   | ● |   | ● |   |   |   |   |   |   |   | ● | ● |   |   |   |   |   |   |   |   | ● |   |   |   |   | ● |   | **12** |
@@ -32,7 +32,7 @@ Visible: **16 PSPs with reach in 5+ countries**, sorted by coverage. The footer 
 | [Teya](https://www.teya.com/hr/tap-to-pay-on-iphone) |   |   |   |   |   |   |   | ● |   | ● |   |   |   |   |   |   |   |   |   | ● | ● |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   | ● |   |   | ● |   |   |   |   |   | ● |   | **9** |
 | [Square](https://squareup.com/au/en/payments/tap-to-pay) | ● |   |   |   |   | ● |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   | ● |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   | ● | ● | **8** |
 | [Hobex](https://www.hobex.at/posit/tap-to-pay/) |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   | ● |   |   |   |   |   | **5** |
-| **Country total (all PSPs)** | **9** | **13** | **11** | **6**+1◐ | **7** | **6** | **1** | **6** | **6** | **9** | **10** | **5** | **1** | **10** | **24** | **13** | **4** | **1** | **3** | **10** | **4** | **10** | **16** | **5** | **4** | **2** | **5** | **9** | **3** | **7** | **4** | **1** | **13** | **5**+1◐ | **8** | **10** | **8** | **2** | **8** | **5** | **10** | **7** | **2** | **12**+1◐ | **10** | **9** | **7** | **4** | **4** | **17**+1◐ | **25** | **391** |
+| **Country total (all PSPs)** | **9** | **13** | **11** | **6**+1◐ | **7** | **6** | **1** | **6** | **6** | **9** | **10** | **5** | **1** | **10** | **24** | **13** | **4** | **1** | **3** | **10** | **4** | **10** | **16** | **5** | **4** | **2** | **5** | **9** | **3** | **7** | **4** | **1** | **13** | **5**+1◐ | **8** | **11** | **8** | **2** | **8** | **5** | **10** | **7** | **2** | **12**+1◐ | **10** | **9** | **7** | **4** | **4** | **17**+1◐ | **25** | **392** |
 
 <details>
 <summary><strong>Regional PSPs</strong> — 11 more with reach in 2–4 countries</summary>
@@ -99,7 +99,7 @@ Visible: **16 PSPs with reach in 5+ countries**, sorted by coverage. The footer 
 
 ## At a glance
 
-- **109 PSPs** across **51 countries / regions** — 391 live PSP × country combinations.
+- **109 PSPs** across **51 countries / regions** — 392 live PSP × country combinations.
 - Broadest reach: **Stripe** (38), **Adyen** (37), **SumUp** (32), **Viva.com** (29), **Revolut** (26).
 - Densest markets: **US** (25 PSPs), **FR** (24 PSPs), **GB** (17 PSPs), **IT** (16 PSPs), **AT** (13 PSPs).
 - Long tail: **79** PSPs are country-specific (one country only).
@@ -146,4 +146,4 @@ Machine-readable: [`data.json`](data.json) — the source of truth this README i
 
 ## Source
 
-Apple, [Tap to Pay on iPhone — Regions](https://developer.apple.com/tap-to-pay/regions/). Snapshot: **2026-06-16**.
+Apple, [Tap to Pay on iPhone — Regions](https://developer.apple.com/tap-to-pay/regions/). Snapshot: **2026-06-17**.
