@@ -1,5 +1,5 @@
 {
-  "snapshot_date": "2026-06-17",
+  "snapshot_date": "2026-06-23",
   "source_url": "https://developer.apple.com/tap-to-pay/regions/",
   "countries": [
     {
@@ -729,6 +729,12 @@
         {
           "name": "Contodeo",
           "url": "https://contodeo.com/solutions/tap-to-pay/tap-to-pay-sur-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Credit Mutuel",
+          "url": "https://www.creditmutuel.fr/fr/agriculteurs/comptes/tap-to-pay-iphone.html#",
           "sdk_url": null,
           "status": "live"
         },

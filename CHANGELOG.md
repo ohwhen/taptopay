@@ -2,6 +2,11 @@
 
 Daily diff of [Apple's Tap to Pay on iPhone — Regions](https://developer.apple.com/tap-to-pay/regions/) page, maintained by `scripts/refresh.rb` via GitHub Actions. Most recent change at the top.
 
+## 2026-06-23
+
+### Added (live)
+- Credit Mutuel — France (`FR`)
+
 ## 2026-06-17
 
 ### Added (live)
