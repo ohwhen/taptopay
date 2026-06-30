@@ -12,7 +12,7 @@ Apple's [Tap to Pay regions page](https://developer.apple.com/tap-to-pay/regions
 
 ## Coverage matrix
 
-Visible: **16 PSPs with reach in 5+ countries**, sorted by coverage. The footer row counts PSPs across *all* 110 entries (including collapsed sections below). `●` live · `◐` announced. PSP names link to each provider's Tap to Pay page.
+Visible: **16 PSPs with reach in 5+ countries**, sorted by coverage. The footer row counts PSPs across *all* 111 entries (including collapsed sections below). `●` live · `◐` announced. PSP names link to each provider's Tap to Pay page.
 
 | PSP | AU | AT | BE | BR | BG | CA | CL | HR | CY | CZ | DK | EE | FO | FI | FR | DE | GR | GL | HK | HU | IS | IE | IT | JP | LV | LI | LT | LU | MY | MT | MX | MC | NL | NZ | NO | PL | PT | PR | RO | SG | SK | SI | ZA | ES | SE | CH | TW | UA | AE | GB | US | Total |
 |:---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|---:|
@@ -32,7 +32,7 @@ Visible: **16 PSPs with reach in 5+ countries**, sorted by coverage. The footer 
 | [Teya](https://www.teya.com/hr/tap-to-pay-on-iphone) |   |   |   |   |   |   |   | ● |   | ● |   |   |   |   |   |   |   |   |   | ● | ● |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   | ● |   |   | ● |   |   |   |   |   | ● |   | **9** |
 | [Square](https://squareup.com/au/en/payments/tap-to-pay) | ● |   |   |   |   | ● |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   | ● |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   | ● | ● | **8** |
 | [Hobex](https://www.hobex.at/posit/tap-to-pay/) |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   | ● |   |   |   |   |   | **5** |
-| **Country total (all PSPs)** | **9** | **13** | **11** | **6**+1◐ | **7** | **6** | **1** | **6** | **6** | **9** | **10** | **5** | **1** | **10** | **25** | **13** | **4** | **1** | **3** | **10** | **4** | **10** | **16** | **5** | **4** | **2** | **5** | **9** | **3** | **7** | **4** | **1** | **13** | **5**+1◐ | **8** | **11** | **8** | **2** | **8** | **5** | **10** | **7** | **2** | **12**+1◐ | **10** | **9** | **7** | **4** | **4** | **17**+1◐ | **25** | **393** |
+| **Country total (all PSPs)** | **9** | **13** | **12** | **6**+1◐ | **7** | **6** | **1** | **6** | **6** | **9** | **10** | **5** | **1** | **10** | **25** | **13** | **4** | **1** | **3** | **10** | **4** | **10** | **16** | **5** | **4** | **2** | **5** | **9** | **3** | **7** | **4** | **1** | **13** | **5**+1◐ | **8** | **11** | **8** | **2** | **8** | **5** | **10** | **7** | **2** | **12**+1◐ | **10** | **9** | **7** | **4** | **4** | **17**+1◐ | **25** | **394** |
 
 <details>
 <summary><strong>Regional PSPs</strong> — 11 more with reach in 2–4 countries</summary>
@@ -54,11 +54,12 @@ Visible: **16 PSPs with reach in 5+ countries**, sorted by coverage. The footer 
 </details>
 
 <details>
-<summary><strong>Country-specific PSPs</strong> — 80 PSPs available in only one country, grouped by country</summary>
+<summary><strong>Country-specific PSPs</strong> — 81 PSPs available in only one country, grouped by country</summary>
 
 | Country | PSPs available *only* here |
 |:---|:---|
 | Australia (`AU`) | [ANZ Worldline](https://anzworldline.com.au/en/home/payment-solutions/eftpos-terminals/tap-to-pay.html), [Tyro](https://www.tyro.com/lp/tyro-byo/), [Westpac](https://www.westpac.com.au/business-banking/merchants-and-payments/eftpos-air-mobile-payments-app/tap-to-pay-on-iphone/), [Zeller](https://www.myzeller.com/zeller-app/tap-to-pay/iphone) |
+| Belgium (`BE`) | [Europabank](https://www.europabank.be/nl/ondernemen/tap-to-pay-op-iphone) |
 | Brazil (`BR`) | [Cielo](https://www.cielo.com.br/tap-to-pay/), [Cloudwalk](https://www.infinitepay.io/tap-to-pay), [Nubank](https://nubank.com.br/taptopayiphone/), [Stone](https://www.ton.com.br/tap-to-pay-no-iphone/) |
 | Canada (`CA`) | [Moneris](https://www.moneris.com/en/solutions/mobile/tap-to-pay-on-iphone) |
 | France (`FR`) | [Banque BCP](https://www.banquebcp.fr/professionnels/gerer-vos-comptes-au-quotidien/tap-to-pay-apple/), [Banque Populaire](https://www.banquepopulaire.fr/professionnels/gerer-developper-activite/tap-to-pay/), [Caisse d'Épargne](https://www.caisse-epargne.fr/professionnels/encaisser-client/tap-to-pay/), [Contodeo](https://contodeo.com/solutions/tap-to-pay/tap-to-pay-sur-iphone/), [Credit Mutuel](https://www.creditmutuel.fr/fr/agriculteurs/comptes/tap-to-pay-iphone.html#), [Crédit Coopératif](https://www.credit-cooperatif.coop/entreprises/comptes-flux/tap-to-pay), [Lyra](https://www.lyra.com/fr/guides/tap-to-pay-sur-iphone/), [Market Pay](https://new-website.dev.market-pay.com/tap-to-pay), [Payplug](https://www.payplug.com/fr/tap-to-pay), [Smile and Pay](https://www.smileandpay.com/tap-to-pay-sur-iphone), [Stancer](https://www.stancer.com/fr/tap-to-pay-sur-iphone/), [Yavin](https://lp.yavin.com/tap-to-pay) |
@@ -99,10 +100,10 @@ Visible: **16 PSPs with reach in 5+ countries**, sorted by coverage. The footer 
 
 ## At a glance
 
-- **110 PSPs** across **51 countries / regions** — 393 live PSP × country combinations.
+- **111 PSPs** across **51 countries / regions** — 394 live PSP × country combinations.
 - Broadest reach: **Stripe** (38), **Adyen** (37), **SumUp** (32), **Viva.com** (29), **Revolut** (26).
 - Densest markets: **FR** (25 PSPs), **US** (25 PSPs), **GB** (17 PSPs), **IT** (16 PSPs), **AT** (13 PSPs).
-- Long tail: **80** PSPs are country-specific (one country only).
+- Long tail: **81** PSPs are country-specific (one country only).
 
 ## Interactive table
 
@@ -146,4 +147,4 @@ Machine-readable: [`data.json`](data.json) — the source of truth this README i
 
 ## Source
 
-Apple, [Tap to Pay on iPhone — Regions](https://developer.apple.com/tap-to-pay/regions/). Snapshot: **2026-06-23**.
+Apple, [Tap to Pay on iPhone — Regions](https://developer.apple.com/tap-to-pay/regions/). Snapshot: **2026-06-30**.

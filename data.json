@@ -1,5 +1,5 @@
 {
-  "snapshot_date": "2026-06-23",
+  "snapshot_date": "2026-06-30",
   "source_url": "https://developer.apple.com/tap-to-pay/regions/",
   "countries": [
     {
@@ -159,6 +159,12 @@
         {
           "name": "Axepta",
           "url": "https://www.axeptabnpparibas.be/fr/encaisser-avec-votre-iphone/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Europabank",
+          "url": "https://www.europabank.be/nl/ondernemen/tap-to-pay-op-iphone",
           "sdk_url": null,
           "status": "live"
         },
