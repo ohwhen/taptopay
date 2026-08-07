@@ -1,5 +1,5 @@
 {
-  "snapshot_date": "2026-06-30",
+  "snapshot_date": "2026-08-07",
   "source_url": "https://developer.apple.com/tap-to-pay/regions/",
   "countries": [
     {
@@ -2583,6 +2583,12 @@
         {
           "name": "Elavon",
           "url": "https://www.elavon.com/tap-to-pay-on-iphone.html",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Finix",
+          "url": "https://finix.com/tap-to-pay-on-iphone",
           "sdk_url": null,
           "status": "live"
         },
