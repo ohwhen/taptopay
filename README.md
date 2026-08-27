@@ -12,7 +12,7 @@ Apple's [Tap to Pay regions page](https://developer.apple.com/tap-to-pay/regions
 
 ## Coverage matrix
 
-Visible: **16 PSPs with reach in 5+ countries**, sorted by coverage. The footer row counts PSPs across *all* 112 entries (including collapsed sections below). `●` live · `◐` announced. PSP names link to each provider's Tap to Pay page.
+Visible: **16 PSPs with reach in 5+ countries**, sorted by coverage. The footer row counts PSPs across *all* 114 entries (including collapsed sections below). `●` live · `◐` announced. PSP names link to each provider's Tap to Pay page.
 
 | PSP | AU | AT | BE | BR | BG | CA | CL | HR | CY | CZ | DK | EE | FO | FI | FR | DE | GR | GL | HK | HU | IS | IE | IT | JP | LV | LI | LT | LU | MY | MT | MX | MC | NL | NZ | NO | PL | PT | PR | RO | SG | SK | SI | ZA | ES | SE | CH | TW | UA | AE | GB | US | Total |
 |:---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|---:|
@@ -32,7 +32,7 @@ Visible: **16 PSPs with reach in 5+ countries**, sorted by coverage. The footer 
 | [Teya](https://www.teya.com/hr/tap-to-pay-on-iphone) |   |   |   |   |   |   |   | ● |   | ● |   |   |   |   |   |   |   |   |   | ● | ● |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   | ● |   |   | ● |   |   |   |   |   | ● |   | **9** |
 | [Square](https://squareup.com/au/en/payments/tap-to-pay) | ● |   |   |   |   | ● |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   | ● |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   | ● | ● | **8** |
 | [Hobex](https://www.hobex.at/posit/tap-to-pay/) |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   | ● |   |   |   |   |   | **5** |
-| **Country total (all PSPs)** | **9** | **13** | **12** | **6**+1◐ | **7** | **6** | **1** | **6** | **6** | **9** | **10** | **5** | **1** | **10** | **25** | **13** | **4** | **1** | **3** | **10** | **4** | **10** | **16** | **5** | **4** | **2** | **5** | **9** | **3** | **7** | **4** | **1** | **13** | **5**+1◐ | **8** | **11** | **8** | **2** | **8** | **5** | **10** | **7** | **2** | **12**+1◐ | **10** | **9** | **7** | **4** | **4** | **17**+1◐ | **26** | **395** |
+| **Country total (all PSPs)** | **9** | **13** | **12** | **6**+1◐ | **7** | **6** | **1** | **6** | **6** | **9** | **10** | **5** | **1** | **10** | **25** | **13** | **4** | **1** | **3** | **10** | **4** | **10** | **16** | **5** | **4** | **2** | **5** | **9** | **3** | **7** | **4** | **1** | **13** | **5**+1◐ | **8** | **11** | **8** | **2** | **8** | **5** | **10** | **7** | **2** | **12**+1◐ | **10** | **9** | **7** | **4** | **4** | **17**+1◐ | **28** | **397** |
 
 <details>
 <summary><strong>Regional PSPs</strong> — 11 more with reach in 2–4 countries</summary>
@@ -54,7 +54,7 @@ Visible: **16 PSPs with reach in 5+ countries**, sorted by coverage. The footer 
 </details>
 
 <details>
-<summary><strong>Country-specific PSPs</strong> — 82 PSPs available in only one country, grouped by country</summary>
+<summary><strong>Country-specific PSPs</strong> — 84 PSPs available in only one country, grouped by country</summary>
 
 | Country | PSPs available *only* here |
 |:---|:---|
@@ -81,7 +81,7 @@ Visible: **16 PSPs with reach in 5+ countries**, sorted by coverage. The footer 
 | Ukraine (`UA`) | [Monobank](https://monobank.ua/terminal/tap-to-pay), [Oschadbank](https://www.oschadbank.ua/msb/oschadpay-ios), [Privat Bank](https://privatbank.ua/business/terminal/ios), [Raiffeisen](https://raiffeisen.ua/biznesu/rakhunok_907/ekvairynh/raipos-ios) |
 | United Arab Emirates (`AE`) | [Arab Financial Services](https://www.arabfinancialservices.ai/en/solutions/business/tap-to-pay-on-iphone), [Magnati](https://www.magnati.com/en/tap-to-pay-on-iphone), [Network International](https://www.network.ae/merchant-solutions/payment-solutions/tap-to-pay-on-iphone) |
 | United Kingdom (`GB`) | [Dojo](https://dojo.tech/tap-to-pay-on-iPhone/), [Tapeeno](https://tapeeno.com/tap-to-pay-on-iphone/), [Tyl by NatWest](https://www.tylbynatwest.com/tap-to-pay-on-iphone) |
-| United States (`US`) | [Carat from Fiserv](https://www.carat.fiserv.com/en-us/lp/apple-tap-to-pay-on-iphone/), [Dejavoo](https://dejavoo.io/software/tap-to-pay/iposgo-on-iphone/), [Deluxe](https://www.deluxe.com/merchant-services/dlxpay), [Elavon](https://www.elavon.com/tap-to-pay-on-iphone.html), [Finix](https://finix.com/tap-to-pay-on-iphone), [Fortis](https://fortispay.com/tap-to-pay-on-iphone/), [GoDaddy](https://www.godaddy.com/payments/tap-to-pay-on-iphone/), [Helcim](https://www.helcim.com/tap-to-pay-on-iphone/), [IPOS Systems](https://ipossystems.com/tap-to-pay-on-iphone/), [Koard](https://www.koard.com/tap-to-pay), [MagTek](https://www.magtek.com/services/tap-to-pay-on-iphone), [Moov](https://moov.io/platform/tap-to-pay-on-iphone/), [NMI](https://www.nmi.com/products/tap-to-pay-ios/), [North](https://www.northamericanbancard.com/products/tap-to-pay-on-iphone), [PayPal App](https://www.paypal.com/us/business/accept-payments/tap-to-pay), [PayPal Point of Sale](https://www.paypal.com/us/webapps/mpp/campaigns/tap-to-pay-iphone), [SwipeSimple](https://home.swipesimple.com/tap-to-pay-on-iphone), [Venmo for Business](https://venmo.com/business/tap-to-pay/iphone/), [Verifone](https://www.verifone.com/en/global/tap-pay-iphone), [Worldpay](https://www.worldpay.com/en/products/tap-to-pay-on-iphone) |
+| United States (`US`) | [Carat from Fiserv](https://www.carat.fiserv.com/en-us/lp/apple-tap-to-pay-on-iphone/), [Dejavoo](https://dejavoo.io/software/tap-to-pay/iposgo-on-iphone/), [Deluxe](https://www.deluxe.com/merchant-services/dlxpay), [Elavon](https://www.elavon.com/tap-to-pay-on-iphone.html), [Finix](https://finix.com/tap-to-pay-on-iphone), [Flute](https://flute.com/products/tap-to-pay-on-iphone), [Fortis](https://fortispay.com/tap-to-pay-on-iphone/), [GoDaddy](https://www.godaddy.com/payments/tap-to-pay-on-iphone/), [Helcim](https://www.helcim.com/tap-to-pay-on-iphone/), [IPOS Systems](https://ipossystems.com/tap-to-pay-on-iphone/), [Koard](https://www.koard.com/tap-to-pay), [MagTek](https://www.magtek.com/services/tap-to-pay-on-iphone), [Moov](https://moov.io/platform/tap-to-pay-on-iphone/), [NearPay](https://us.nearpay.io/tap-to-pay-on-iphone), [NMI](https://www.nmi.com/products/tap-to-pay-ios/), [North](https://www.northamericanbancard.com/products/tap-to-pay-on-iphone), [PayPal App](https://www.paypal.com/us/business/accept-payments/tap-to-pay), [PayPal Point of Sale](https://www.paypal.com/us/webapps/mpp/campaigns/tap-to-pay-iphone), [SwipeSimple](https://home.swipesimple.com/tap-to-pay-on-iphone), [Venmo for Business](https://venmo.com/business/tap-to-pay/iphone/), [Verifone](https://www.verifone.com/en/global/tap-pay-iphone), [Worldpay](https://www.worldpay.com/en/products/tap-to-pay-on-iphone) |
 
 </details>
 
@@ -100,10 +100,10 @@ Visible: **16 PSPs with reach in 5+ countries**, sorted by coverage. The footer 
 
 ## At a glance
 
-- **112 PSPs** across **51 countries / regions** — 395 live PSP × country combinations.
+- **114 PSPs** across **51 countries / regions** — 397 live PSP × country combinations.
 - Broadest reach: **Stripe** (38), **Adyen** (37), **SumUp** (32), **Viva.com** (29), **Revolut** (26).
-- Densest markets: **US** (26 PSPs), **FR** (25 PSPs), **GB** (17 PSPs), **IT** (16 PSPs), **AT** (13 PSPs).
-- Long tail: **82** PSPs are country-specific (one country only).
+- Densest markets: **US** (28 PSPs), **FR** (25 PSPs), **GB** (17 PSPs), **IT** (16 PSPs), **AT** (13 PSPs).
+- Long tail: **84** PSPs are country-specific (one country only).
 
 ## Interactive table
 
@@ -147,4 +147,4 @@ Machine-readable: [`data.json`](data.json) — the source of truth this README i
 
 ## Source
 
-Apple, [Tap to Pay on iPhone — Regions](https://developer.apple.com/tap-to-pay/regions/). Snapshot: **2026-08-07**.
+Apple, [Tap to Pay on iPhone — Regions](https://developer.apple.com/tap-to-pay/regions/). Snapshot: **2026-08-27**.

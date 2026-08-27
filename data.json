@@ -1,5 +1,5 @@
 {
-  "snapshot_date": "2026-08-07",
+  "snapshot_date": "2026-08-27",
   "source_url": "https://developer.apple.com/tap-to-pay/regions/",
   "countries": [
     {
@@ -2593,6 +2593,12 @@
           "status": "live"
         },
         {
+          "name": "Flute",
+          "url": "https://flute.com/products/tap-to-pay-on-iphone",
+          "sdk_url": "https://developer.flute.com/docs/sdk/ios",
+          "status": "live"
+        },
+        {
           "name": "Fortis",
           "url": "https://fortispay.com/tap-to-pay-on-iphone/",
           "sdk_url": "https://docs.fortis.tech/v/1_0_0.html#/rest/card-present-solutions/tap-to-pay-iphone/overview",
@@ -2632,6 +2638,12 @@
           "name": "Moov",
           "url": "https://moov.io/platform/tap-to-pay-on-iphone/",
           "sdk_url": "https://docs.moov.io/guides/money-movement/accept-payments/card-acceptance/tap-to-pay-iphone/",
+          "status": "live"
+        },
+        {
+          "name": "NearPay",
+          "url": "https://us.nearpay.io/tap-to-pay-on-iphone",
+          "sdk_url": "https://docs.nearpay.io/us/en/guides/terminal-sdk",
           "status": "live"
         },
         {
