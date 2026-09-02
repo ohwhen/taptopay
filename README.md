@@ -147,4 +147,4 @@ Machine-readable: [`data.json`](data.json) — the source of truth this README i
 
 ## Source
 
-Apple, [Tap to Pay on iPhone — Regions](https://developer.apple.com/tap-to-pay/regions/). Snapshot: **2026-08-27**.
+Apple, [Tap to Pay on iPhone — Regions](https://developer.apple.com/tap-to-pay/regions/). Snapshot: **2026-09-02**.
