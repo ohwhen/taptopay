@@ -1,5 +1,5 @@
 {
-  "snapshot_date": "2026-09-02",
+  "snapshot_date": "2026-09-08",
   "source_url": "https://developer.apple.com/tap-to-pay/regions/",
   "countries": [
     {
@@ -1227,6 +1227,12 @@
         {
           "name": "Sella",
           "url": "https://promo.sella.it/landing/tap-to-pay",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
+          "name": "Stancer",
+          "url": "https://stancer.com/ita/it/tap-to-pay-su-iphone",
           "sdk_url": null,
           "status": "live"
         },
