@@ -2,6 +2,17 @@
 
 Daily diff of [Apple's Tap to Pay on iPhone — Regions](https://developer.apple.com/tap-to-pay/regions/) page, maintained by `scripts/refresh.rb` via GitHub Actions. Most recent change at the top.
 
+## 2026-09-09
+
+### Added (live)
+- AirPAY — Japan (`JP`)
+- Aurus — United States (`US`)
+
+### No longer announced
+- Sipay — Spain (`ES`)
+- Worldline — United Kingdom (`GB`)
+- Emerge — New Zealand (`NZ`)
+
 ## 2026-09-08
 
 ### Added (live)

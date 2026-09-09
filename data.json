@@ -1,5 +1,5 @@
 {
-  "snapshot_date": "2026-09-08",
+  "snapshot_date": "2026-09-09",
   "source_url": "https://developer.apple.com/tap-to-pay/regions/",
   "countries": [
     {
@@ -1285,6 +1285,12 @@
           "status": "live"
         },
         {
+          "name": "AirPAY",
+          "url": "https://airregi.jp/payment/service/airpaytouch/",
+          "sdk_url": null,
+          "status": "live"
+        },
+        {
           "name": "GMO-FG",
           "url": "https://www.smbc-gp.co.jp/stera/tap/iphone/",
           "sdk_url": null,
@@ -1667,12 +1673,6 @@
           "url": "www.anz.co.nz/fastpayiphone",
           "sdk_url": null,
           "status": "live"
-        },
-        {
-          "name": "Emerge",
-          "url": null,
-          "sdk_url": null,
-          "status": "coming_soon"
         },
         {
           "name": "Stripe",
@@ -2161,12 +2161,6 @@
           "status": "live"
         },
         {
-          "name": "Sipay",
-          "url": null,
-          "sdk_url": null,
-          "status": "coming_soon"
-        },
-        {
           "name": "Square",
           "url": "https://squareup.com/es/es/payments/tap-to-pay",
           "sdk_url": null,
@@ -2537,12 +2531,6 @@
           "url": "https://www.viva.com/en-gb/tap-to-pay-on-iphone",
           "sdk_url": "https://developer.viva.com/apis-for-point-of-sale/card-terminal-apps/ios-app/",
           "status": "live"
-        },
-        {
-          "name": "Worldline",
-          "url": null,
-          "sdk_url": null,
-          "status": "coming_soon"
         }
       ]
     },
@@ -2554,6 +2542,12 @@
           "name": "Adyen",
           "url": "https://www.adyen.com/pos-payments/tap-to-pay-on-iphone/",
           "sdk_url": "https://docs.adyen.com/point-of-sale/ipp-mobile/tap-to-pay",
+          "status": "live"
+        },
+        {
+          "name": "Aurus",
+          "url": "https://www.aurusinc.com/Tab_to_Pay.php",
+          "sdk_url": null,
           "status": "live"
         },
         {
