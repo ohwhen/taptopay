@@ -12,50 +12,52 @@ Apple's [Tap to Pay regions page](https://developer.apple.com/tap-to-pay/regions
 
 ## Coverage matrix
 
-Visible: **16 PSPs with reach in 5+ countries**, sorted by coverage. The footer row counts PSPs across *all* 114 entries (including collapsed sections below). `●` live · `◐` announced. PSP names link to each provider's Tap to Pay page.
+Visible: **18 PSPs with reach in 5+ countries**, sorted by coverage. The footer row counts PSPs across *all* 117 entries (including collapsed sections below). `●` live · `◐` announced. PSP names link to each provider's Tap to Pay page.
 
-| PSP | AU | AT | BE | BR | BG | CA | CL | HR | CY | CZ | DK | EE | FO | FI | FR | DE | GR | GL | HK | HU | IS | IE | IT | JP | LV | LI | LT | LU | MY | MT | MX | MC | NL | NZ | NO | PL | PT | PR | RO | SG | SK | SI | ZA | ES | SE | CH | TW | UA | AE | GB | US | Total |
-|:---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|---:|
-| [Stripe](https://stripe.com/au/terminal/tap-to-pay-on-iphone) | ● | ● | ● |   | ● | ● |   | ● | ● | ● | ● | ● |   | ● | ● | ● |   |   |   | ● |   | ● | ● | ● | ● | ● | ● | ● | ● | ● |   |   | ● | ● | ● | ● | ● | ● | ● | ● | ● | ● |   | ● | ● | ● |   |   |   | ● | ● | **38** |
-| [Adyen](https://www.adyen.com/pos-payments/tap-to-pay-on-iphone/) | ● | ● | ● |   | ● | ● |   | ● | ● | ● | ● |   |   | ● | ● | ● |   |   | ● | ● | ● | ● | ● | ● |   | ● |   | ● |   | ● | ● |   | ● | ● | ● | ● | ● |   | ● | ● | ● | ● |   | ● | ● | ● |   |   | ● | ● | ● | **37** |
-| [SumUp](https://www.sumup.com/en-au/tap-to-pay-on-iphone/) | ● | ● | ● | ● | ● |   | ● | ● | ● | ● | ● | ● |   | ● | ● | ● |   |   |   | ● |   | ● | ● |   | ● |   | ● | ● |   | ● |   |   | ● |   | ● | ● | ● |   | ● |   | ● | ● |   | ● | ● | ● |   |   |   | ● |   | **32** |
-| [Viva.com](https://www.viva.com/de-at/tap-to-pay-on-iphone) |   | ● | ● |   | ● |   |   | ● | ● | ● | ● | ● |   | ● | ● | ● | ● |   |   | ● |   | ● | ● |   | ● |   | ● | ● |   | ● |   |   | ● |   | ● | ● | ● |   | ● |   | ● | ● |   | ● | ● |   |   |   |   | ● |   | **29** |
-| [Revolut](https://www.revolut.com/de-AT/tap-to-pay-on-iphone/) |   | ● | ● |   | ● |   |   |   | ● | ● | ● | ● |   | ● | ● | ● |   |   |   | ● | ● | ● | ● |   |   |   | ● | ● |   | ● |   |   | ● |   |   |   | ● |   | ● | ● | ● | ● |   | ● | ● |   |   |   |   | ● |   | **26** |
-| [Mollie](https://www.mollie.com/at/products/pos-payments/tap-to-pay-on-iphone) |   | ● | ● |   |   |   |   |   |   | ● | ● |   |   | ● | ● | ● |   |   |   |   |   | ● | ● |   |   |   |   | ● |   |   |   |   | ● |   |   | ● | ● |   |   |   |   |   |   | ● | ● | ● |   |   |   | ● |   | **17** |
-| [Rapyd](https://www.rapyd.net/de/tap-to-pay-iphone/) |   | ● | ● |   | ● |   |   |   |   |   | ● |   |   | ● | ● | ● |   |   |   |   | ● | ● |   |   |   |   |   | ● |   |   |   |   | ● |   | ● | ● |   |   |   |   |   |   |   | ● | ● | ● |   |   |   | ● |   | **17** |
-| [myPOS](https://www.mypos.com/de-at/tap-to-pay-on-iphone) |   | ● | ● |   | ● |   |   |   |   |   |   |   |   |   | ● | ● | ● |   |   | ● |   |   | ● |   |   |   |   |   |   |   |   |   | ● |   |   |   | ● |   | ● |   | ● |   |   | ● |   | ● |   |   |   | ● |   | **15** |
-| [Worldline](https://www.payone.com/AT-de/bezahlloesungen/bankomat-kassen/tap-to-pay-on-iphone) |   | ● | ● |   |   |   |   | ● | ● | ● |   |   |   |   | ● |   | ● |   |   | ● |   |   | ● |   |   |   |   | ● |   |   |   |   | ● | ● |   | ● |   |   |   |   |   | ● |   |   |   | ● |   |   |   |   |   | **15** |
-| [Surfboard Payments](https://www.surfboardpayments.com/products/tap-to-pay-on-iphone/?curr=dkk) |   |   |   |   |   |   |   |   |   |   | ● | ● |   | ● | ● |   |   |   |   | ● |   | ● |   |   | ● |   | ● |   |   |   |   |   |   |   | ● | ● |   |   |   |   |   |   |   |   | ● |   |   |   |   | ● |   | **12** |
-| [Global Payments](https://www.globalpayments.at/de-at/tap-to-pay) |   | ● |   |   |   |   |   |   |   | ● |   |   |   |   |   |   | ● |   | ● | ● |   | ● |   |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   | ● |   | ● |   |   |   |   |   | ● |   |   | ● |   | **11** |
-| [Nexi](https://www.nexi.at/de/terminals/softpos/tap-to-pay-on-iphone) |   | ● |   |   |   |   |   |   |   |   | ● |   | ● | ● |   | ● |   | ● |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   | ● | ● |   |   |   |   |   | **10** |
-| [PayPal](https://www.paypal.com/dk/business/pos-system/tap-to-pay) |   |   |   |   |   |   |   |   |   |   | ● |   |   | ● | ● |   |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   | ● |   | ● |   |   |   |   |   |   |   |   | ● | ● |   |   |   |   | ● |   | **9** |
-| [Teya](https://www.teya.com/hr/tap-to-pay-on-iphone) |   |   |   |   |   |   |   | ● |   | ● |   |   |   |   |   |   |   |   |   | ● | ● |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   | ● |   |   | ● |   |   |   |   |   | ● |   | **9** |
-| [Square](https://squareup.com/au/en/payments/tap-to-pay) | ● |   |   |   |   | ● |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   | ● |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   | ● | ● | **8** |
-| [Hobex](https://www.hobex.at/posit/tap-to-pay/) |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   | ● |   |   |   |   |   | **5** |
-| **Country total (all PSPs)** | **9** | **13** | **12** | **6**+1◐ | **7** | **6** | **1** | **6** | **6** | **9** | **10** | **5** | **1** | **10** | **25** | **13** | **4** | **1** | **3** | **10** | **4** | **10** | **17** | **6** | **4** | **2** | **5** | **9** | **3** | **7** | **4** | **1** | **13** | **5** | **8** | **11** | **8** | **2** | **8** | **5** | **10** | **7** | **2** | **12** | **10** | **9** | **7** | **4** | **4** | **17** | **29** | **400** |
+| PSP | AR | AU | AT | BE | BR | BG | CA | CL | CO | CR | HR | CY | CZ | DK | DO | EE | FO | FI | FR | DE | GR | GL | GT | HN | HK | HU | IS | IE | IT | JP | LV | LI | LT | LU | MY | MT | MX | MC | NL | NZ | NO | PA | PE | PL | PT | PR | RO | SG | SK | SI | ZA | ES | SE | CH | TW | UA | AE | GB | US | Total |
+|:---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|---:|
+| [Stripe](https://stripe.com/au/terminal/tap-to-pay-on-iphone) |   | ● | ● | ● |   | ● | ● |   |   |   | ● | ● | ● | ● |   | ● |   | ● | ● | ● |   |   |   |   |   | ● |   | ● | ● | ● | ● | ● | ● | ● | ● | ● |   |   | ● | ● | ● |   |   | ● | ● | ● | ● | ● | ● | ● |   | ● | ● | ● |   |   |   | ● | ● | **38** |
+| [Adyen](https://www.adyen.com/pos-payments/tap-to-pay-on-iphone/) |   | ● | ● | ● |   | ● | ● |   |   |   | ● | ● | ● | ● |   |   |   | ● | ● | ● |   |   |   |   | ● | ● | ● | ● | ● | ● |   | ● |   | ● |   | ● | ● |   | ● | ● | ● |   |   | ● | ● |   | ● | ● | ● | ● |   | ● | ● | ● |   |   | ● | ● | ● | **37** |
+| [SumUp](https://www.sumup.com/en-au/tap-to-pay-on-iphone/) |   | ● | ● | ● | ● | ● |   | ● | ● |   | ● | ● | ● | ● |   | ● |   | ● | ● | ● |   |   |   |   |   | ● |   | ● | ● |   | ● |   | ● | ● |   | ● |   |   | ● |   | ● |   | ● | ● | ● |   | ● |   | ● | ● |   | ● | ● | ● |   |   |   | ● |   | **34** |
+| [Viva.com](https://www.viva.com/de-at/tap-to-pay-on-iphone) |   |   | ● | ● |   | ● |   |   |   |   | ● | ● | ● | ● |   | ● |   | ● | ● | ● | ● |   |   |   |   | ● |   | ● | ● |   | ● |   | ● | ● |   | ● |   |   | ● |   | ● |   |   | ● | ● |   | ● |   | ● | ● |   | ● | ● |   |   |   |   | ● |   | **29** |
+| [Revolut](https://www.revolut.com/de-AT/tap-to-pay-on-iphone/) |   |   | ● | ● |   | ● |   |   |   |   |   | ● | ● | ● |   | ● |   | ● | ● | ● |   |   |   |   |   | ● | ● | ● | ● |   |   |   | ● | ● |   | ● |   |   | ● |   |   |   |   |   | ● |   | ● | ● | ● | ● |   | ● | ● |   |   |   |   | ● |   | **26** |
+| [Mollie](https://www.mollie.com/at/products/pos-payments/tap-to-pay-on-iphone) |   |   | ● | ● |   |   |   |   |   |   |   |   | ● | ● |   |   |   | ● | ● | ● |   |   |   |   |   |   |   | ● | ● |   |   |   |   | ● |   |   |   |   | ● |   |   |   |   | ● | ● |   |   |   |   |   |   | ● | ● | ● |   |   |   | ● |   | **17** |
+| [Rapyd](https://www.rapyd.net/de/tap-to-pay-iphone/) |   |   | ● | ● |   | ● |   |   |   |   |   |   |   | ● |   |   |   | ● | ● | ● |   |   |   |   |   |   | ● | ● |   |   |   |   |   | ● |   |   |   |   | ● |   | ● |   |   | ● |   |   |   |   |   |   |   | ● | ● | ● |   |   |   | ● |   | **17** |
+| [myPOS](https://www.mypos.com/de-at/tap-to-pay-on-iphone) |   |   | ● | ● |   | ● |   |   |   |   |   |   |   |   |   |   |   |   | ● | ● | ● |   |   |   |   | ● |   |   | ● |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   | ● |   | ● |   | ● |   |   | ● |   | ● |   |   |   | ● |   | **15** |
+| [Worldline](https://www.payone.com/AT-de/bezahlloesungen/bankomat-kassen/tap-to-pay-on-iphone) |   |   | ● | ● |   |   |   |   |   |   | ● | ● | ● |   |   |   |   |   | ● |   | ● |   |   |   |   | ● |   |   | ● |   |   |   |   | ● |   |   |   |   | ● | ● |   |   |   | ● |   |   |   |   |   | ● |   |   |   | ● |   |   |   |   |   | **15** |
+| [Surfboard Payments](https://www.surfboardpayments.com/products/tap-to-pay-on-iphone/?curr=dkk) |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   | ● |   | ● | ● |   |   |   |   |   |   | ● |   | ● |   |   | ● |   | ● |   |   |   |   |   |   |   | ● |   |   | ● |   |   |   |   |   |   |   |   | ● |   |   |   |   | ● |   | **12** |
+| [Global Payments](https://www.globalpayments.at/de-at/tap-to-pay) |   |   | ● |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   |   | ● |   |   |   | ● | ● |   | ● |   |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   | ● |   | ● |   |   |   |   |   | ● |   |   | ● |   | **11** |
+| [Nexi](https://www.nexi.at/de/terminals/softpos/tap-to-pay-on-iphone) |   |   | ● |   |   |   |   |   |   |   |   |   |   | ● |   |   | ● | ● |   | ● |   | ● |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   | ● | ● |   |   |   |   |   | **10** |
+| [PayPal](https://www.paypal.com/dk/business/pos-system/tap-to-pay) |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   | ● | ● |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   | ● |   | ● |   |   |   |   |   |   |   |   |   |   | ● | ● |   |   |   |   | ● |   | **9** |
+| [Teya](https://www.teya.com/hr/tap-to-pay-on-iphone) |   |   |   |   |   |   |   |   |   |   | ● |   | ● |   |   |   |   |   |   |   |   |   |   |   |   | ● | ● |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   | ● |   |   | ● |   |   |   |   |   | ● |   | **9** |
+| [Square](https://squareup.com/au/en/payments/tap-to-pay) |   | ● |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   | ● |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   | ● | ● | **8** |
+| [Hobex](https://www.hobex.at/posit/tap-to-pay/) |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   | ● |   |   |   |   |   | **5** |
+| [Symbiotic](https://www.symbiotic.com/tap-to-pay-on-iphone) |   |   |   |   |   |   |   |   | ● | ● |   |   |   |   |   |   |   |   |   |   |   |   | ● | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | **5** |
+| [Visa Acceptance Solutions](https://cr.review.visa.com/solutions/datasheets/acceptance-devices-tap-to-iphone.html) |   |   |   |   |   |   |   |   |   | ● |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   | ● | **5** |
+| **Country total (all PSPs)** | **1** | **9** | **13** | **12** | **6**+1◐ | **7** | **6** | **1** | **2** | **3** | **6** | **6** | **9** | **10** | **2** | **5** | **1** | **10** | **25** | **13** | **4** | **1** | **2** | **2** | **3** | **10** | **4** | **10** | **17** | **6** | **4** | **2** | **5** | **9** | **3** | **7** | **4** | **1** | **13** | **5** | **8** | **2** | **1** | **11** | **8** | **2** | **8** | **5** | **10** | **7** | **2** | **12** | **10** | **9** | **7** | **4** | **4** | **17** | **29** | **415** |
 
 <details>
 <summary><strong>Regional PSPs</strong> — 12 more with reach in 2–4 countries</summary>
 
-| PSP | AU | AT | BE | BR | BG | CA | CL | HR | CY | CZ | DK | EE | FO | FI | FR | DE | GR | GL | HK | HU | IS | IE | IT | JP | LV | LI | LT | LU | MY | MT | MX | MC | NL | NZ | NO | PL | PT | PR | RO | SG | SK | SI | ZA | ES | SE | CH | TW | UA | AE | GB | US | Total |
-|:---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|---:|
-| [Visa Acceptance Solutions](https://www.visa.com.mx/solutions/datasheets/acceptance-devices-tap-to-iphone.html) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   | ● | **3** |
-| [Axepta](https://www.axeptabnpparibas.be/fr/encaisser-avec-votre-iphone/) |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | **2** |
-| [BNP Paribas](https://mabanquepro.bnpparibas/fr/notre-offre-pro/comptes-cartes-et-services/solutions-d-encaissement/encaissement-par-carte/tap-to-pay) |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | **2** |
-| [Chase](https://www.jpmorgan.com/payments/solutions/tap-to-pay-on-iphone) |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● | **2** |
-| [Clover from Fiserv](https://www.carat.fiserv.com/en-us/lp/apple-tap-to-pay-on-iphone/) |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● | **2** |
-| [Fiuu](https://fiuu.com/tap-to-pay-on-iphone) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   | **2** |
-| [Mercado Pago](https://www.mercadopago.com.br/ferramentas-para-vender/tap-to-pay-no-iphone) |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | **2** |
-| [Pay.nl](https://www.pay.nl/nl-be/tap-to-pay-op-iphone) |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | **2** |
-| [Stancer](https://www.stancer.com/fr/tap-to-pay-sur-iphone/) |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | **2** |
-| [Trust Payments](https://www.trustpayments.com/products/apple-tap-to-pay/) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   | **2** |
-| [UniCredit](https://www.bankaustria.at/tap-to-pay.jsp) |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | **2** |
-| [Windcave](https://www.windcave.com) | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | **2** |
+| PSP | AR | AU | AT | BE | BR | BG | CA | CL | CO | CR | HR | CY | CZ | DK | DO | EE | FO | FI | FR | DE | GR | GL | GT | HN | HK | HU | IS | IE | IT | JP | LV | LI | LT | LU | MY | MT | MX | MC | NL | NZ | NO | PA | PE | PL | PT | PR | RO | SG | SK | SI | ZA | ES | SE | CH | TW | UA | AE | GB | US | Total |
+|:---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|---:|
+| [Geopagos](https://geopagos.com/en/taptopay) |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   | ● | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | **4** |
+| [Mercado Pago](https://www.mercadopago.com.ar/herramientas-para-vender/point-tap-ios) | ● |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | **3** |
+| [Axepta](https://www.axeptabnpparibas.be/fr/encaisser-avec-votre-iphone/) |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | **2** |
+| [BNP Paribas](https://mabanquepro.bnpparibas/fr/notre-offre-pro/comptes-cartes-et-services/solutions-d-encaissement/encaissement-par-carte/tap-to-pay) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | **2** |
+| [Chase](https://www.jpmorgan.com/payments/solutions/tap-to-pay-on-iphone) |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● | **2** |
+| [Clover from Fiserv](https://www.carat.fiserv.com/en-us/lp/apple-tap-to-pay-on-iphone/) |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● | **2** |
+| [Fiuu](https://fiuu.com/tap-to-pay-on-iphone) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   | **2** |
+| [Pay.nl](https://www.pay.nl/nl-be/tap-to-pay-op-iphone) |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | **2** |
+| [Stancer](https://www.stancer.com/fr/tap-to-pay-sur-iphone/) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | **2** |
+| [Trust Payments](https://www.trustpayments.com/products/apple-tap-to-pay/) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   | **2** |
+| [UniCredit](https://www.bankaustria.at/tap-to-pay.jsp) |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | **2** |
+| [Windcave](https://www.windcave.com) |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | ● |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | **2** |
 
 </details>
 
 <details>
-<summary><strong>Country-specific PSPs</strong> — 85 PSPs available in only one country, grouped by country</summary>
+<summary><strong>Country-specific PSPs</strong> — 86 PSPs available in only one country, grouped by country</summary>
 
 | Country | PSPs available *only* here |
 |:---|:---|
@@ -63,6 +65,7 @@ Visible: **16 PSPs with reach in 5+ countries**, sorted by coverage. The footer 
 | Belgium (`BE`) | [Europabank](https://www.europabank.be/nl/ondernemen/tap-to-pay-op-iphone) |
 | Brazil (`BR`) | [Cielo](https://www.cielo.com.br/tap-to-pay/), [Cloudwalk](https://www.infinitepay.io/tap-to-pay), [Nubank](https://nubank.com.br/taptopayiphone/), [Stone](https://www.ton.com.br/tap-to-pay-no-iphone/) |
 | Canada (`CA`) | [Moneris](https://www.moneris.com/en/solutions/mobile/tap-to-pay-on-iphone) |
+| Dominican Republic (`DO`) | [Azul](https://azul.com.do/Tap-to-Pay-en-iPhone) |
 | France (`FR`) | [Banque BCP](https://www.banquebcp.fr/professionnels/gerer-vos-comptes-au-quotidien/tap-to-pay-apple/), [Banque Populaire](https://www.banquepopulaire.fr/professionnels/gerer-developper-activite/tap-to-pay/), [Caisse d'Épargne](https://www.caisse-epargne.fr/professionnels/encaisser-client/tap-to-pay/), [Contodeo](https://contodeo.com/solutions/tap-to-pay/tap-to-pay-sur-iphone/), [Credit Mutuel](https://www.creditmutuel.fr/fr/agriculteurs/comptes/tap-to-pay-iphone.html#), [Crédit Coopératif](https://www.credit-cooperatif.coop/entreprises/comptes-flux/tap-to-pay), [Lyra](https://www.lyra.com/fr/guides/tap-to-pay-sur-iphone/), [Market Pay](https://new-website.dev.market-pay.com/tap-to-pay), [Payplug](https://www.payplug.com/fr/tap-to-pay), [Smile and Pay](https://www.smileandpay.com/tap-to-pay-sur-iphone), [Yavin](https://lp.yavin.com/tap-to-pay) |
 | Germany (`DE`) | [Commerz Globalpay](https://www.commerz-globalpay.com/de-de/tap-to-pay), [PAYONE](https://www.payone.com/DE-de/bezahlloesungen/kartenlesegeraete/tap-to-pay-on-iphone), [Sparkassen-Finanzgruppe](https://www.sparkasse-pos.de/ios.html) |
 | Hong Kong (`HK`) | [SoéPay](https://soepay.com/tap-to-pay-on-iphone/) |
@@ -99,10 +102,10 @@ Visible: **16 PSPs with reach in 5+ countries**, sorted by coverage. The footer 
 
 ## At a glance
 
-- **114 PSPs** across **51 countries / regions** — 400 live PSP × country combinations.
-- Broadest reach: **Stripe** (38), **Adyen** (37), **SumUp** (32), **Viva.com** (29), **Revolut** (26).
+- **117 PSPs** across **59 countries / regions** — 415 live PSP × country combinations.
+- Broadest reach: **Stripe** (38), **Adyen** (37), **SumUp** (34), **Viva.com** (29), **Revolut** (26).
 - Densest markets: **US** (29 PSPs), **FR** (25 PSPs), **GB** (17 PSPs), **IT** (17 PSPs), **AT** (13 PSPs).
-- Long tail: **85** PSPs are country-specific (one country only).
+- Long tail: **86** PSPs are country-specific (one country only).
 
 ## Interactive table
 
@@ -110,17 +113,18 @@ GitHub strips the CSS that pins table headers. Sticky-header version with every 
 
 ## Country codes
 
-`AU` Australia · `AT` Austria · `BE` Belgium · `BR` Brazil · `BG` Bulgaria  
-`CA` Canada · `CL` Chile · `HR` Croatia · `CY` Cyprus · `CZ` Czechia  
-`DK` Denmark · `EE` Estonia · `FO` Faroe Islands · `FI` Finland · `FR` France  
-`DE` Germany · `GR` Greece · `GL` Greenland · `HK` Hong Kong · `HU` Hungary  
-`IS` Iceland · `IE` Ireland · `IT` Italy · `JP` Japan · `LV` Latvia  
-`LI` Liechtenstein · `LT` Lithuania · `LU` Luxembourg · `MY` Malaysia · `MT` Malta  
-`MX` Mexico · `MC` Monaco · `NL` Netherlands · `NZ` New Zealand · `NO` Norway  
-`PL` Poland · `PT` Portugal · `PR` Puerto Rico · `RO` Romania · `SG` Singapore  
-`SK` Slovakia · `SI` Slovenia · `ZA` South Africa · `ES` Spain · `SE` Sweden  
-`CH` Switzerland · `TW` Taiwan · `UA` Ukraine · `AE` UAE · `GB` UK  
-`US` USA  
+`AR` Argentina · `AU` Australia · `AT` Austria · `BE` Belgium · `BR` Brazil  
+`BG` Bulgaria · `CA` Canada · `CL` Chile · `CO` Colombia · `CR` Costa Rica  
+`HR` Croatia · `CY` Cyprus · `CZ` Czechia · `DK` Denmark · `DO` Dominican Republic  
+`EE` Estonia · `FO` Faroe Islands · `FI` Finland · `FR` France · `DE` Germany  
+`GR` Greece · `GL` Greenland · `GT` Guatemala · `HN` Honduras · `HK` Hong Kong  
+`HU` Hungary · `IS` Iceland · `IE` Ireland · `IT` Italy · `JP` Japan  
+`LV` Latvia · `LI` Liechtenstein · `LT` Lithuania · `LU` Luxembourg · `MY` Malaysia  
+`MT` Malta · `MX` Mexico · `MC` Monaco · `NL` Netherlands · `NZ` New Zealand  
+`NO` Norway · `PA` Panama · `PE` Peru · `PL` Poland · `PT` Portugal  
+`PR` Puerto Rico · `RO` Romania · `SG` Singapore · `SK` Slovakia · `SI` Slovenia  
+`ZA` South Africa · `ES` Spain · `SE` Sweden · `CH` Switzerland · `TW` Taiwan  
+`UA` Ukraine · `AE` UAE · `GB` UK · `US` USA  
 
 ## Data
 
@@ -146,4 +150,4 @@ Machine-readable: [`data.json`](data.json) — the source of truth this README i
 
 ## Source
 
-Apple, [Tap to Pay on iPhone — Regions](https://developer.apple.com/tap-to-pay/regions/). Snapshot: **2026-09-09**.
+Apple, [Tap to Pay on iPhone — Regions](https://developer.apple.com/tap-to-pay/regions/). Snapshot: **2026-09-23**.
